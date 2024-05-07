@@ -1,0 +1,400 @@
+{
+    "Value": [
+        {
+            "_id": "64d0a3529c32d229e4cff657",
+            "no": 589,
+            "name": "เยื่อกระดาษชนิดฟอกขาวจากชานอ้อย (kg)",
+            "detail": "ผลิตจากชานอ้อยที่เหลือจากกระบวนการผลิตน้ำตาล; ครอบคลุมตั้งแต่การเตรียมวัตถุดิบ การต้มเยื่อ การฟอกเยื่อ และการขึ้นรูปเยื่อแผ่น; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 4.3925
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database,\nTIIS-MTEC-NSTDA \n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_Dec2019",
+            "type": 17,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff658",
+            "no": 590,
+            "name": "เยื่อกระดาษชนิดฟอกขาวจากยูคาลิปตัส (kg)",
+            "detail": "ผลิตจากไม้ยูคาลิปตัส; ครอบคลุมตั้งแต่การเตรียมวัตถุดิบ การต้มเยื่อ การฟอกเยื่อ และการขึ้นรูปเยื่อแผ่น; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 0.6677
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database,\nTIIS-MTEC-NSTDA \n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_Dec2019",
+            "type": 17,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff659",
+            "no": 591,
+            "name": "เยื่อกึ่งเคมี (kg)",
+            "detail": "ผลิตจากไม้ยูคาลิปตัส; ครอบคลุมตั้งแต่การเตรียมวัตถุดิบ การต้มเยื่อ และการขึ้นรูปเยื่อแผ่น; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 0.2994
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database,\nTIIS-MTEC-NSTDA \n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_Dec2019",
+            "type": 17,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff65a",
+            "no": 592,
+            "name": "กระดาษพิมพ์เขียนแบบไม่เคลือบผิว (kg)",
+            "detail": "ครอบคลุมตั้งแต่การเตรียมน้ำเยื่อ การทำแผ่นกระดาษ การแปรรูป และการบรรจุหีบห่อ; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 2.102
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database,\nTIIS-MTEC-NSTDA \n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_Dec2019",
+            "type": 17,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff65b",
+            "no": 593,
+            "name": "กระดาษพิมพ์เขียนแบบเคลือบผิว (kg)",
+            "detail": "ครอบคลุมตั้งแต่การเตรียมน้ำเยื่อ การทำแผ่นกระดาษ การเคลือบผิว การแปรรูป และการบรรจุหีบห่อ; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 2.1639
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database,\nTIIS-MTEC-NSTDA \n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_Dec2019",
+            "type": 17,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff65c",
+            "no": 594,
+            "name": "กระดาษหนังสือพิมพ์ (kg)",
+            "detail": "ผลิตจากเยื่อกระดาษรีไซเคิลที่ได้จากกระดาษหนังสือพิมพ์เก่า; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 1.3589
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database,\nTIIS-MTEC-NSTDA \n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_Dec2019",
+            "type": 17,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff65d",
+            "no": 595,
+            "name": "กระดาษคราฟท์ ชนิดทำผิวกล่อง (kg)",
+            "detail": "ครอบคลุมตั้งแต่การเตรียมน้ำเยื่อ จนถึงการทำแผ่นกระดาษ; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 1.6324
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database,\nTIIS-MTEC-NSTDA \n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_Dec2019",
+            "type": 17,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff65e",
+            "no": 596,
+            "name": "กระดาษคราฟท์ ชนิดทำลอน (kg)",
+            "detail": "ครอบคลุมตั้งแต่การเตรียมน้ำเยื่อ จนถึงการทำแผ่นกระดาษ; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 1.6184
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database,\nTIIS-MTEC-NSTDA \n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_Dec2019",
+            "type": 17,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff65f",
+            "no": 597,
+            "name": "กระดาษกล่องขาวเคลือบแป้ง/กระดาษกล่องแป้งหลังเทา (kg)",
+            "detail": "ครอบคลุมตั้งแต่การเตรียมน้ำเยื่อ การทำแผ่นกระดาษ การเคลือบผิว การแปรรูป และการบรรจุหีบห่อ; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 1.8679
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database,\nTIIS-MTEC-NSTDA \n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_Dec2019",
+            "type": 17,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        }
+    ]
+}

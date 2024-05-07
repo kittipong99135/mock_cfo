@@ -1,0 +1,3964 @@
+{
+    "Value": [
+        {
+            "_id": "64d0a3529c32d229e4cff5ad",
+            "no": 419,
+            "name": "ถั่วเขียว (kg)",
+            "detail": "ครอบคลุมตั้งแต่การเตรียมดิน การปลูก การดูแลรักษา การเก็บเกี่ยว และการจัดการหลังการเก็บเกี่ยว; ข้อมูลจากการทบทวนวรรณกรรม ; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 0.8808
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database, \nTIIS-MTEC-NSTDA\n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_Mar2021",
+            "type": 12,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff5ae",
+            "no": 420,
+            "name": "ถั่วดำ (kg)",
+            "detail": "ครอบคลุมตั้งแต่การเตรียมดิน การปลูก การดูแลรักษา การเก็บเกี่ยว และการจัดการหลังการเก็บเกี่ยว; ข้อมูลจากการทบทวนวรรณกรรม ; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 0.4078
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database, \nTIIS-MTEC-NSTDA\n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_Mar2021",
+            "type": 12,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff5af",
+            "no": 421,
+            "name": "ถั่วลิสง (kg)",
+            "detail": "ครอบคลุมตั้งแต่การเตรียมดิน การปลูก การดูแลรักษา การเก็บเกี่ยว และการจัดการหลังการเก็บเกี่ยว; ข้อมูลจากการทบทวนวรรณกรรม ; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 0.7686
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database, \nTIIS-MTEC-NSTDA\n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_Mar2021",
+            "type": 12,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff5b0",
+            "no": 422,
+            "name": "ถั่วเหลืองฝักสด (kg)",
+            "detail": "ครอบคลุมตั้งแต่การเตรียมดิน การปลูก การดูแลรักษา การเก็บเกี่ยว และการจัดการหลังการเก็บเกี่ยว; ข้อมูลจากการทบทวนวรรณกรรม ; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 0.5724
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database, \nTIIS-MTEC-NSTDA\n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_Mar2021",
+            "type": 12,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff5b1",
+            "no": 423,
+            "name": "ข้าวโพดหวาน (kg)",
+            "detail": "ครอบคลุมตั้งแต่การเตรียมดิน การปลูก การดูแลรักษา การเก็บเกี่ยว และการจัดการหลังการเก็บเกี่ยว; ข้อมูลจากการทบทวนวรรณกรรม ; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 0.4156
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database, \nTIIS-MTEC-NSTDA\n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_Mar2021",
+            "type": 12,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff5b2",
+            "no": 424,
+            "name": "อ้อยคั้นน้ำ (kg)",
+            "detail": "ครอบคลุมตั้งแต่การเตรียมดิน การปลูก การดูแลรักษา การเก็บเกี่ยว และการจัดการหลังการเก็บเกี่ยว; ข้อมูลจากการทบทวนวรรณกรรม ; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 0.0622
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database, \nTIIS-MTEC-NSTDA\n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_Mar2021",
+            "type": 12,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff5b3",
+            "no": 425,
+            "name": "อ้อยโรงงาน (kg)",
+            "detail": "ครอบคลุมตั้งแต่การเตรียมดิน การปลูก การดูแลรักษา การเก็บเกี่ยว และการจัดการหลังการเก็บเกี่ยว; ข้อมูลจากการทบทวนวรรณกรรม ; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 0.025
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database, \nTIIS-MTEC-NSTDA\n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_Mar2021",
+            "type": 12,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff5b4",
+            "no": 426,
+            "name": "ข้าวฟ่างเลี้ยงสัตว์ (kg)",
+            "detail": "ครอบคลุมตั้งแต่การเตรียมดิน การปลูก การดูแลรักษา การเก็บเกี่ยว และการจัดการหลังการเก็บเกี่ยว; ข้อมูลจากการทบทวนวรรณกรรม ; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 0.6614
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database, \nTIIS-MTEC-NSTDA\n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_Mar2021",
+            "type": 12,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff5b5",
+            "no": 427,
+            "name": "ข้าวฟ่างหวาน (kg)",
+            "detail": "ครอบคลุมตั้งแต่การเตรียมดิน การปลูก การดูแลรักษา การเก็บเกี่ยว และการจัดการหลังการเก็บเกี่ยว; ข้อมูลจากการทบทวนวรรณกรรม ; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 0.0551
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database, \nTIIS-MTEC-NSTDA\n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_Mar2021",
+            "type": 12,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff5b6",
+            "no": 428,
+            "name": "สับปะรดโรงงาน (kg)",
+            "detail": "ครอบคลุมตั้งแต่การเตรียมดิน การปลูก การดูแลรักษา การเก็บเกี่ยว และการจัดการหลังการเก็บเกี่ยว; ข้อมูลจากการทบทวนวรรณกรรม ; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 0.3277
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database, \nTIIS-MTEC-NSTDA\n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_Mar2021",
+            "type": 12,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff5b7",
+            "no": 429,
+            "name": "สับปะรดผลสด (kg)",
+            "detail": "ครอบคลุมตั้งแต่การเตรียมดิน การปลูก การดูแลรักษา การเก็บเกี่ยว และการจัดการหลังการเก็บเกี่ยว; ข้อมูลจากการทบทวนวรรณกรรม ; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 0.125
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database, \nTIIS-MTEC-NSTDA\n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_Mar2021",
+            "type": 12,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff5b8",
+            "no": 430,
+            "name": "ขิง (kg)",
+            "detail": "ครอบคลุมตั้งแต่การเตรียมดิน การปลูก การดูแลรักษา การเก็บเกี่ยว และการจัดการหลังการเก็บเกี่ยว; ข้อมูลจากการทบทวนวรรณกรรม ; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 0.1249
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database, \nTIIS-MTEC-NSTDA\n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_Mar2021",
+            "type": 12,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff5b9",
+            "no": 431,
+            "name": "กะหล่ำปลี (kg)",
+            "detail": "ครอบคลุมตั้งแต่การเตรียมดิน การปลูก การดูแลรักษา การเก็บเกี่ยว และการจัดการหลังการเก็บเกี่ยว; ข้อมูลจากการทบทวนวรรณกรรม ; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 0.3538
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database, \nTIIS-MTEC-NSTDA\n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_Mar2021",
+            "type": 12,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff5ba",
+            "no": 432,
+            "name": "ข้าวโพดฝักอ่อน (kg)",
+            "detail": "ครอบคลุมตั้งแต่การเตรียมดิน การปลูก การดูแลรักษา การเก็บเกี่ยว และการจัดการหลังการเก็บเกี่ยว; ข้อมูลจากการทบทวนวรรณกรรม ; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 0.4324
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database, \nTIIS-MTEC-NSTDA\n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_Mar2021",
+            "type": 12,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff5bb",
+            "no": 433,
+            "name": "หอมหัวใหญ่ (kg)",
+            "detail": "ครอบคลุมตั้งแต่การเตรียมดิน การปลูก การดูแลรักษา การเก็บเกี่ยว และการจัดการหลังการเก็บเกี่ยว; ข้อมูลจากการทบทวนวรรณกรรม ; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 0.3441
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database, \nTIIS-MTEC-NSTDA\n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_Mar2021",
+            "type": 12,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff5bc",
+            "no": 434,
+            "name": "หอมแดง (kg)",
+            "detail": "ครอบคลุมตั้งแต่การเตรียมดิน การปลูก การดูแลรักษา การเก็บเกี่ยว และการจัดการหลังการเก็บเกี่ยว; ข้อมูลจากการทบทวนวรรณกรรม ; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 0.4207
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database, \nTIIS-MTEC-NSTDA\n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_Mar2021",
+            "type": 12,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff5bd",
+            "no": 435,
+            "name": "กระเทียม (kg)",
+            "detail": "ครอบคลุมตั้งแต่การเตรียมดิน การปลูก การดูแลรักษา การเก็บเกี่ยว และการจัดการหลังการเก็บเกี่ยว; ข้อมูลจากการทบทวนวรรณกรรม ; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 0.4754
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database, \nTIIS-MTEC-NSTDA\n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_Mar2021",
+            "type": 12,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff5be",
+            "no": 436,
+            "name": "มันฝรั่ง (kg)",
+            "detail": "ครอบคลุมตั้งแต่การเตรียมดิน การปลูก การดูแลรักษา การเก็บเกี่ยว และการจัดการหลังการเก็บเกี่ยว; ข้อมูลจากการทบทวนวรรณกรรม ; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 0.1447
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database, \nTIIS-MTEC-NSTDA\n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_Mar2021",
+            "type": 12,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff5bf",
+            "no": 437,
+            "name": "ถั่วฝักยาว (kg)",
+            "detail": "ครอบคลุมตั้งแต่การเตรียมดิน การปลูก การดูแลรักษา การเก็บเกี่ยว และการจัดการหลังการเก็บเกี่ยว; ข้อมูลจากการทบทวนวรรณกรรม ; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 0.3497
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database, \nTIIS-MTEC-NSTDA\n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_Mar2021",
+            "type": 12,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff5c0",
+            "no": 438,
+            "name": "แตงกวา (kg)",
+            "detail": "ครอบคลุมตั้งแต่การเตรียมดิน การปลูก การดูแลรักษา การเก็บเกี่ยว และการจัดการหลังการเก็บเกี่ยว; ข้อมูลจากการทบทวนวรรณกรรม ; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 0.3438
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database, \nTIIS-MTEC-NSTDA\n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_Mar2021",
+            "type": 12,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff5c1",
+            "no": 439,
+            "name": "มะนาว (kg)",
+            "detail": "ครอบคลุมตั้งแต่การเตรียมดิน การปลูก การดูแลรักษา การเก็บเกี่ยว และการจัดการหลังการเก็บเกี่ยว; ข้อมูลจากการทบทวนวรรณกรรม ; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 0.2023
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database, \nTIIS-MTEC-NSTDA\n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_Mar2021",
+            "type": 12,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff5c2",
+            "no": 440,
+            "name": "ใบมะกรูด (kg)",
+            "detail": "ครอบคลุมตั้งแต่การเตรียมดิน การปลูก การดูแลรักษา การเก็บเกี่ยว และการจัดการหลังการเก็บเกี่ยว; ข้อมูลจากการทบทวนวรรณกรรม ; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 0.4912
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database, \nTIIS-MTEC-NSTDA\n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_Mar2021",
+            "type": 12,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff5c3",
+            "no": 441,
+            "name": "ผลมะกรูด (kg)",
+            "detail": "ครอบคลุมตั้งแต่การเตรียมดิน การปลูก การดูแลรักษา การเก็บเกี่ยว และการจัดการหลังการเก็บเกี่ยว; ข้อมูลจากการทบทวนวรรณกรรม ; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 0.2812
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database, \nTIIS-MTEC-NSTDA\n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_Mar2021",
+            "type": 12,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff5c4",
+            "no": 442,
+            "name": "กะเพรา (kg)",
+            "detail": "ครอบคลุมตั้งแต่การเตรียมดิน การปลูก การดูแลรักษา การเก็บเกี่ยว และการจัดการหลังการเก็บเกี่ยว; ข้อมูลจากการทบทวนวรรณกรรม ; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 0.497
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database, \nTIIS-MTEC-NSTDA\n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_Mar2021",
+            "type": 12,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff5c5",
+            "no": 443,
+            "name": "แครอท (kg)",
+            "detail": "ครอบคลุมตั้งแต่การเตรียมดิน การปลูก การดูแลรักษา การเก็บเกี่ยว และการจัดการหลังการเก็บเกี่ยว; ข้อมูลจากการทบทวนวรรณกรรม ; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 0.2637
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database, \nTIIS-MTEC-NSTDA\n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_Mar2021",
+            "type": 12,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff5c6",
+            "no": 444,
+            "name": "มะเขือเทศ (kg)",
+            "detail": "ครอบคลุมตั้งแต่การเตรียมดิน การปลูก การดูแลรักษา การเก็บเกี่ยว และการจัดการหลังการเก็บเกี่ยว; ข้อมูลจากการทบทวนวรรณกรรม ; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 0.4785
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database, \nTIIS-MTEC-NSTDA\n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_Mar2021",
+            "type": 12,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff5c7",
+            "no": 445,
+            "name": "ผักกาดหอม (kg)",
+            "detail": "ครอบคลุมตั้งแต่การเตรียมดิน การปลูก การดูแลรักษา การเก็บเกี่ยว และการจัดการหลังการเก็บเกี่ยว; ข้อมูลจากการทบทวนวรรณกรรม ; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 0.9417
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database, \nTIIS-MTEC-NSTDA\n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_Mar2021",
+            "type": 12,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff5c8",
+            "no": 446,
+            "name": "พริกขี้หนู (kg)",
+            "detail": "ครอบคลุมตั้งแต่การเตรียมดิน การปลูก การดูแลรักษา การเก็บเกี่ยว และการจัดการหลังการเก็บเกี่ยว; ข้อมูลจากการทบทวนวรรณกรรม ; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 0.4299
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database, \nTIIS-MTEC-NSTDA\n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_Mar2021",
+            "type": 12,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff5c9",
+            "no": 447,
+            "name": "พริกหวาน (kg)",
+            "detail": "ครอบคลุมตั้งแต่การเตรียมดิน การปลูก การดูแลรักษา การเก็บเกี่ยว และการจัดการหลังการเก็บเกี่ยว; ข้อมูลจากการทบทวนวรรณกรรม ; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 0.5714
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database, \nTIIS-MTEC-NSTDA\n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_Mar2021",
+            "type": 12,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff5ca",
+            "no": 448,
+            "name": "พริกชี้ฟ้า (kg)",
+            "detail": "ครอบคลุมตั้งแต่การเตรียมดิน การปลูก การดูแลรักษา การเก็บเกี่ยว และการจัดการหลังการเก็บเกี่ยว; ข้อมูลจากการทบทวนวรรณกรรม ; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 0.461
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database, \nTIIS-MTEC-NSTDA\n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_Mar2021",
+            "type": 12,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff5cb",
+            "no": 449,
+            "name": "หน่อไม้ (kg)",
+            "detail": "ครอบคลุมตั้งแต่การเตรียมดิน การปลูก การดูแลรักษา การเก็บเกี่ยว และการจัดการหลังการเก็บเกี่ยว; ข้อมูลจากการทบทวนวรรณกรรม ; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 1.0758
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database, \nTIIS-MTEC-NSTDA\n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_Mar2021",
+            "type": 12,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff5cc",
+            "no": 450,
+            "name": "ตะไคร้ (kg)",
+            "detail": "ครอบคลุมตั้งแต่การเตรียมดิน การปลูก การดูแลรักษา การเก็บเกี่ยว และการจัดการหลังการเก็บเกี่ยว; ข้อมูลจากการทบทวนวรรณกรรม ; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 0.1706
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database, \nTIIS-MTEC-NSTDA\n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_Mar2021",
+            "type": 12,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff5cd",
+            "no": 451,
+            "name": "ข่า (kg)",
+            "detail": "ครอบคลุมตั้งแต่การเตรียมดิน การปลูก การดูแลรักษา การเก็บเกี่ยว และการจัดการหลังการเก็บเกี่ยว; ข้อมูลจากการทบทวนวรรณกรรม ; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 0.2355
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database, \nTIIS-MTEC-NSTDA\n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_Mar2021",
+            "type": 12,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff5ce",
+            "no": 452,
+            "name": "กะหล่ำดอก (kg)",
+            "detail": "ครอบคลุมตั้งแต่การเตรียมดิน การปลูก การดูแลรักษา การเก็บเกี่ยว และการจัดการหลังการเก็บเกี่ยว; ข้อมูลจากการทบทวนวรรณกรรม ; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 0.275
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database, \nTIIS-MTEC-NSTDA\n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_Mar2021",
+            "type": 12,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff5cf",
+            "no": 453,
+            "name": "เห็ดฟาง (kg)",
+            "detail": "ครอบคลุมตั้งแต่การเตรียมดิน การปลูก การดูแลรักษา การเก็บเกี่ยว และการจัดการหลังการเก็บเกี่ยว; ข้อมูลจากการทบทวนวรรณกรรม ; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 0.3036
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database, \nTIIS-MTEC-NSTDA\n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_Mar2021",
+            "type": 12,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff5d0",
+            "no": 454,
+            "name": "งา (kg)",
+            "detail": "ครอบคลุมตั้งแต่การเตรียมดิน การปลูก การดูแลรักษา การเก็บเกี่ยว และการจัดการหลังการเก็บเกี่ยว; ข้อมูลจากการทบทวนวรรณกรรม ; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 0.3438
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database, \nTIIS-MTEC-NSTDA\n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_Mar2021",
+            "type": 12,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff5d1",
+            "no": 455,
+            "name": "ผักคะน้า (kg)",
+            "detail": "ครอบคลุมตั้งแต่การเตรียมดิน การปลูก การดูแลรักษา การเก็บเกี่ยว และการจัดการหลังการเก็บเกี่ยว; ข้อมูลจากการทบทวนวรรณกรรม ; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 0.2554
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database, \nTIIS-MTEC-NSTDA\n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_Mar2021",
+            "type": 12,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff5d2",
+            "no": 456,
+            "name": "ผักกาดเขียวกวางตุ้ง (kg)",
+            "detail": "ครอบคลุมตั้งแต่การเตรียมดิน การปลูก การดูแลรักษา การเก็บเกี่ยว และการจัดการหลังการเก็บเกี่ยว; ข้อมูลจากการทบทวนวรรณกรรม ; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 0.2062
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database, \nTIIS-MTEC-NSTDA\n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_Mar2021",
+            "type": 12,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff5d3",
+            "no": 457,
+            "name": "พริกไทย (kg)",
+            "detail": "ครอบคลุมตั้งแต่การเตรียมดิน การปลูก การดูแลรักษา การเก็บเกี่ยว และการจัดการหลังการเก็บเกี่ยว; ข้อมูลจากการทบทวนวรรณกรรม ; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 1.3779
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database, \nTIIS-MTEC-NSTDA\n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_Mar2021",
+            "type": 12,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff5d4",
+            "no": 458,
+            "name": "ถั่วแขก (kg)",
+            "detail": "ครอบคลุมตั้งแต่การเตรียมดิน การปลูก การดูแลรักษา การเก็บเกี่ยว และการจัดการหลังการเก็บเกี่ยว; ข้อมูลจากการทบทวนวรรณกรรม ; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 0.3265
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database, \nTIIS-MTEC-NSTDA\n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_Mar2021",
+            "type": 12,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff5d5",
+            "no": 459,
+            "name": "ชาอูหลง (แห้ง) (kg)",
+            "detail": "ครอบคลุมตั้งแต่การเตรียมดิน การปลูก การดูแลรักษา การเก็บเกี่ยว และการจัดการหลังการเก็บเกี่ยว; ข้อมูลจากการทบทวนวรรณกรรม ; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 12.574
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database, \nTIIS-MTEC-NSTDA\n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_Mar2021",
+            "type": 12,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff5d6",
+            "no": 460,
+            "name": "ชาอูหลง (สด) (kg)",
+            "detail": "ครอบคลุมตั้งแต่การเตรียมดิน การปลูก การดูแลรักษา การเก็บเกี่ยว และการจัดการหลังการเก็บเกี่ยว; ข้อมูลจากการทบทวนวรรณกรรม ; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 1.6167
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database, \nTIIS-MTEC-NSTDA\n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_Mar2021",
+            "type": 12,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff5d7",
+            "no": 461,
+            "name": "กระเจี๊ยบเขียว (kg)",
+            "detail": "ครอบคลุมตั้งแต่การเตรียมดิน การปลูก การดูแลรักษา การเก็บเกี่ยว และการจัดการหลังการเก็บเกี่ยว; ข้อมูลจากการทบทวนวรรณกรรม ; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 0.1699
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database, \nTIIS-MTEC-NSTDA\n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_Mar2021",
+            "type": 12,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff5d8",
+            "no": 462,
+            "name": "แตงโม (kg)",
+            "detail": "ครอบคลุมตั้งแต่การเตรียมดิน การปลูก การดูแลรักษา การเก็บเกี่ยว และการจัดการหลังการเก็บเกี่ยว; ข้อมูลจากการทบทวนวรรณกรรม ; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 0.5224
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database, \nTIIS-MTEC-NSTDA\n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_Mar2021",
+            "type": 12,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff5d9",
+            "no": 463,
+            "name": "กระเทียม (อินทรีย์) (kg)",
+            "detail": "ครอบคลุมตั้งแต่การเตรียมดิน การปลูก การดูแลรักษา การเก็บเกี่ยว และการจัดการหลังการเก็บเกี่ยว; ข้อมูลจากการทบทวนวรรณกรรม ; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 0.1376
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database, \nTIIS-MTEC-NSTDA\n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_Mar2021",
+            "type": 12,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff5da",
+            "no": 464,
+            "name": "ถั่วแขก (อินทรีย์) (kg)",
+            "detail": "ครอบคลุมตั้งแต่การเตรียมดิน การปลูก การดูแลรักษา การเก็บเกี่ยว และการจัดการหลังการเก็บเกี่ยว; ข้อมูลจากการทบทวนวรรณกรรม ; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 0.1661
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database, \nTIIS-MTEC-NSTDA\n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_Mar2021",
+            "type": 12,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff5db",
+            "no": 465,
+            "name": "กะหล่ำปลี (อินทรีย์) (kg)",
+            "detail": "ครอบคลุมตั้งแต่การเตรียมดิน การปลูก การดูแลรักษา การเก็บเกี่ยว และการจัดการหลังการเก็บเกี่ยว; ข้อมูลจากการทบทวนวรรณกรรม ; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 0.3306
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database, \nTIIS-MTEC-NSTDA\n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_Mar2021",
+            "type": 12,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff5dc",
+            "no": 466,
+            "name": "ผักกาดเขียวกวางตุ้ง (อินทรีย์) (kg)",
+            "detail": "ครอบคลุมตั้งแต่การเตรียมดิน การปลูก การดูแลรักษา การเก็บเกี่ยว และการจัดการหลังการเก็บเกี่ยว; ข้อมูลจากการทบทวนวรรณกรรม ; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 0.2745
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database, \nTIIS-MTEC-NSTDA\n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_Mar2021",
+            "type": 12,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff5dd",
+            "no": 467,
+            "name": "ชาอูหลง (แห้ง) (อินทรีย์) (kg)",
+            "detail": "ครอบคลุมตั้งแต่การเตรียมดิน การปลูก การดูแลรักษา การเก็บเกี่ยว และการจัดการหลังการเก็บเกี่ยว; ข้อมูลจากการทบทวนวรรณกรรม ; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 5.0743
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database, \nTIIS-MTEC-NSTDA\n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_Mar2021",
+            "type": 12,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff5de",
+            "no": 468,
+            "name": "ชาอูหลง (สด) (อินทรีย์) (kg)",
+            "detail": "ครอบคลุมตั้งแต่การเตรียมดิน การปลูก การดูแลรักษา การเก็บเกี่ยว และการจัดการหลังการเก็บเกี่ยว; ข้อมูลจากการทบทวนวรรณกรรม ; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 2.4384
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database, \nTIIS-MTEC-NSTDA\n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_Mar2021",
+            "type": 12,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff5df",
+            "no": 469,
+            "name": "กาแฟอาราบิกา (อินทรีย์) (kg)",
+            "detail": "ครอบคลุมตั้งแต่การเตรียมดิน การปลูก การดูแลรักษา การเก็บเกี่ยว และการจัดการหลังการเก็บเกี่ยว; ข้อมูลจากการทบทวนวรรณกรรม ; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 0.9297
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database, \nTIIS-MTEC-NSTDA\n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_Mar2021",
+            "type": 12,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff5e0",
+            "no": 470,
+            "name": "หน่อไม้ฝรั่ง (อินทรีย์) (kg)",
+            "detail": "ครอบคลุมตั้งแต่การเตรียมดิน การปลูก การดูแลรักษา การเก็บเกี่ยว และการจัดการหลังการเก็บเกี่ยว; ข้อมูลจากการทบทวนวรรณกรรม ; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 1.2759
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database, \nTIIS-MTEC-NSTDA\n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_Mar2021",
+            "type": 12,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff5e1",
+            "no": 471,
+            "name": "ผักกาดหัว (อินทรีย์) (kg)",
+            "detail": "ครอบคลุมตั้งแต่การเตรียมดิน การปลูก การดูแลรักษา การเก็บเกี่ยว และการจัดการหลังการเก็บเกี่ยว; ข้อมูลจากการทบทวนวรรณกรรม ; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 0.2673
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database, \nTIIS-MTEC-NSTDA\n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_Mar2021",
+            "type": 12,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff5e2",
+            "no": 472,
+            "name": "ทุเรียน (kg)",
+            "detail": "ครอบคลุมตั้งแต่การเตรียมดิน การปลูก การดูแลรักษา การเก็บเกี่ยว และการจัดการหลังการเก็บเกี่ยว; ข้อมูลจากการทบทวนวรรณกรรม ; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 0.2387
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database, \nTIIS-MTEC-NSTDA\n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_Mar2021",
+            "type": 12,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff5e3",
+            "no": 473,
+            "name": "ลำไยในฤดู (kg)",
+            "detail": "ครอบคลุมตั้งแต่การเตรียมดิน การปลูก การดูแลรักษา การเก็บเกี่ยว และการจัดการหลังการเก็บเกี่ยว; ข้อมูลจากการทบทวนวรรณกรรม ; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 0.6027
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database, \nTIIS-MTEC-NSTDA\n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_Mar2021",
+            "type": 12,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff5e4",
+            "no": 474,
+            "name": "ลำไยนอกฤดู (kg)",
+            "detail": "ครอบคลุมตั้งแต่การเตรียมดิน การปลูก การดูแลรักษา การเก็บเกี่ยว และการจัดการหลังการเก็บเกี่ยว; ข้อมูลจากการทบทวนวรรณกรรม ; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 0.9772
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database, \nTIIS-MTEC-NSTDA\n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_Mar2021",
+            "type": 12,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff5e5",
+            "no": 475,
+            "name": "ลิ้นจี่ (kg)",
+            "detail": "ครอบคลุมตั้งแต่การเตรียมดิน การปลูก การดูแลรักษา การเก็บเกี่ยว และการจัดการหลังการเก็บเกี่ยว; ข้อมูลจากการทบทวนวรรณกรรม ; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 1.2014
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database, \nTIIS-MTEC-NSTDA\n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_Mar2021",
+            "type": 12,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff5e6",
+            "no": 476,
+            "name": "มังคุด (kg)",
+            "detail": "ครอบคลุมตั้งแต่การเตรียมดิน การปลูก การดูแลรักษา การเก็บเกี่ยว และการจัดการหลังการเก็บเกี่ยว; ข้อมูลจากการทบทวนวรรณกรรม ; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 0.8683
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database, \nTIIS-MTEC-NSTDA\n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_Mar2021",
+            "type": 12,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff5e7",
+            "no": 477,
+            "name": "ส้มเขียวหวาน (kg)",
+            "detail": "ครอบคลุมตั้งแต่การเตรียมดิน การปลูก การดูแลรักษา การเก็บเกี่ยว และการจัดการหลังการเก็บเกี่ยว; ข้อมูลจากการทบทวนวรรณกรรม ; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 0.7289
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database, \nTIIS-MTEC-NSTDA\n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_Mar2021",
+            "type": 12,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff5e8",
+            "no": 478,
+            "name": "ส้มโอ (kg)",
+            "detail": "ครอบคลุมตั้งแต่การเตรียมดิน การปลูก การดูแลรักษา การเก็บเกี่ยว และการจัดการหลังการเก็บเกี่ยว; ข้อมูลจากการทบทวนวรรณกรรม ; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 0.2547
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database, \nTIIS-MTEC-NSTDA\n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_Mar2021",
+            "type": 12,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff5e9",
+            "no": 479,
+            "name": "เงาะ (kg)",
+            "detail": "ครอบคลุมตั้งแต่การเตรียมดิน การปลูก การดูแลรักษา การเก็บเกี่ยว และการจัดการหลังการเก็บเกี่ยว; ข้อมูลจากการทบทวนวรรณกรรม ; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 0.203
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database, \nTIIS-MTEC-NSTDA\n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_Mar2021",
+            "type": 12,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff5ea",
+            "no": 480,
+            "name": "มะม่วง (kg)",
+            "detail": "ครอบคลุมตั้งแต่การเตรียมดิน การปลูก การดูแลรักษา การเก็บเกี่ยว และการจัดการหลังการเก็บเกี่ยว; ข้อมูลจากการทบทวนวรรณกรรม ; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 0.3005
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database, \nTIIS-MTEC-NSTDA\n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_Mar2021",
+            "type": 12,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff5eb",
+            "no": 481,
+            "name": "ลองกอง (kg)",
+            "detail": "ครอบคลุมตั้งแต่การเตรียมดิน การปลูก การดูแลรักษา การเก็บเกี่ยว และการจัดการหลังการเก็บเกี่ยว; ข้อมูลจากการทบทวนวรรณกรรม ; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 0.6528
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database, \nTIIS-MTEC-NSTDA\n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_Mar2021",
+            "type": 12,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff5ec",
+            "no": 482,
+            "name": "มะพร้าวน้ำหอม (kg)",
+            "detail": "ครอบคลุมตั้งแต่การเตรียมดิน การปลูก การดูแลรักษา การเก็บเกี่ยว และการจัดการหลังการเก็บเกี่ยว; ข้อมูลจากการทบทวนวรรณกรรม ; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 1.3236
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database, \nTIIS-MTEC-NSTDA\n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_Mar2021",
+            "type": 12,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff5ed",
+            "no": 483,
+            "name": "มะพร้าว (kg)",
+            "detail": "ครอบคลุมตั้งแต่การเตรียมดิน การปลูก การดูแลรักษา การเก็บเกี่ยว และการจัดการหลังการเก็บเกี่ยว; ข้อมูลจากการทบทวนวรรณกรรม ; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 0.8535
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database, \nTIIS-MTEC-NSTDA\n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_Mar2021",
+            "type": 12,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff5ee",
+            "no": 484,
+            "name": "สตรอเบอรี่ (kg)",
+            "detail": "ครอบคลุมตั้งแต่การเตรียมดิน การปลูก การดูแลรักษา การเก็บเกี่ยว และการจัดการหลังการเก็บเกี่ยว; ข้อมูลจากการทบทวนวรรณกรรม ; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 0.6323
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database, \nTIIS-MTEC-NSTDA\n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_Mar2021",
+            "type": 12,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff5ef",
+            "no": 485,
+            "name": "กล้วยไข่ (kg)",
+            "detail": "ครอบคลุมตั้งแต่การเตรียมดิน การปลูก การดูแลรักษา การเก็บเกี่ยว และการจัดการหลังการเก็บเกี่ยว; ข้อมูลจากการทบทวนวรรณกรรม ; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 0.5859
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database, \nTIIS-MTEC-NSTDA\n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_Mar2021",
+            "type": 12,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff5f0",
+            "no": 486,
+            "name": "กล้วยหอม (kg)",
+            "detail": "ครอบคลุมตั้งแต่การเตรียมดิน การปลูก การดูแลรักษา การเก็บเกี่ยว และการจัดการหลังการเก็บเกี่ยว; ข้อมูลจากการทบทวนวรรณกรรม ; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 0.6241
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database, \nTIIS-MTEC-NSTDA\n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_Mar2021",
+            "type": 12,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff5f1",
+            "no": 487,
+            "name": "ฝรั่ง (kg)",
+            "detail": "ครอบคลุมตั้งแต่การเตรียมดิน การปลูก การดูแลรักษา การเก็บเกี่ยว และการจัดการหลังการเก็บเกี่ยว; ข้อมูลจากการทบทวนวรรณกรรม ; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 0.4892
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database, \nTIIS-MTEC-NSTDA\n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_Mar2021",
+            "type": 12,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff5f2",
+            "no": 488,
+            "name": "องุ่น (ปลูกแบบไม่มีหลังคา) (kg)",
+            "detail": "ครอบคลุมตั้งแต่การเตรียมดิน การปลูก การดูแลรักษา การเก็บเกี่ยว และการจัดการหลังการเก็บเกี่ยว; ข้อมูลจากการทบทวนวรรณกรรม ; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 0.3455
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database, \nTIIS-MTEC-NSTDA\n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_Mar2021",
+            "type": 12,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff5f3",
+            "no": 489,
+            "name": "องุ่น (ปลูกแบบมีหลังคา) (kg)",
+            "detail": "ครอบคลุมตั้งแต่การเตรียมดิน การปลูก การดูแลรักษา การเก็บเกี่ยว และการจัดการหลังการเก็บเกี่ยว; ข้อมูลจากการทบทวนวรรณกรรม ; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 0.2488
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database, \nTIIS-MTEC-NSTDA\n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_Mar2021",
+            "type": 12,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff5f4",
+            "no": 490,
+            "name": "กาแฟอราบิกา (kg)",
+            "detail": "ครอบคลุมตั้งแต่การเตรียมดิน การปลูก การดูแลรักษา การเก็บเกี่ยว และการจัดการหลังการเก็บเกี่ยว; ข้อมูลจากการทบทวนวรรณกรรม ; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 11.0291
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database, \nTIIS-MTEC-NSTDA\n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_Mar2021",
+            "type": 12,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff5f5",
+            "no": 491,
+            "name": "กาแฟโรบัสตา (kg)",
+            "detail": "ครอบคลุมตั้งแต่การเตรียมดิน การปลูก การดูแลรักษา การเก็บเกี่ยว และการจัดการหลังการเก็บเกี่ยว; ข้อมูลจากการทบทวนวรรณกรรม ; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 8.0986
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database, \nTIIS-MTEC-NSTDA\n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_Mar2021",
+            "type": 12,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff5f6",
+            "no": 492,
+            "name": "กาแฟสารอราบิก้า (ปลูกเชิงเดี่ยว) (kg)",
+            "detail": "ครอบคลุมตั้งแต่การเพาะกล้ากาแฟ การเตรียมดิน การปลูก การดูแลรักษา และการเก็บเกี่ยวกาแฟเชอรี่ (ตลอดช่วงอายุ 10 ปี) รวมถึงขั้นตอนการสีกาแฟเชอรี่ (แบบเปียก) และการสีกาแฟกะลา จนได้กาแฟสาร",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 7.3396
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database, \nTIIS-MTEC-NSTDA\n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_Mar2021",
+            "type": 12,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff5f7",
+            "no": 493,
+            "name": "กาแฟสารอราบิก้า (ปลูกร่วม) (kg)",
+            "detail": "ครอบคลุมตั้งแต่การเพาะกล้ากาแฟ การเตรียมดิน การปลูก การดูแลรักษา และการเก็บเกี่ยวกาแฟเชอรี่ (ตลอดช่วงอายุ 30 ปี) รวมถึงขั้นตอนการสีกาแฟเชอรี่ (แบบเปียก) และการสีกาแฟกะลา จนได้กาแฟสาร; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 7.7669
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database, \nTIIS-MTEC-NSTDA\n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_Mar2021",
+            "type": 12,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff5f8",
+            "no": 494,
+            "name": "กาแฟสารอราบิก้า (ค่าเฉลี่ย) (kg)",
+            "detail": "ค่าเฉลี่ยจากการปลูกกาแฟอราบิก้าแบบปลูกเชิงเดี่ยวและแบบปลูกร่วม; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 7.2511
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database, \nTIIS-MTEC-NSTDA\n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_Mar2021",
+            "type": 12,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff5f9",
+            "no": 495,
+            "name": "กาแฟอราบิก้าคั่วบด (kg)",
+            "detail": "ครอบคลุมตั้งแต่การรับกาแฟสาร คัดแยกสิ่งเจือปน การคั่วกาแฟ และการบดกาแฟ; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 10.2087
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database, \nTIIS-MTEC-NSTDA\n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_Mar2021",
+            "type": 12,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff5fa",
+            "no": 496,
+            "name": "ชานอ้อย (kg)",
+            "detail": "Bagasse, from sugarcane, at sugar refinery",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 0.0109
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Ecoinvent 2.2, IPCC 2007 GWP 100a",
+            "updatedDate": "Update_24Sep12",
+            "type": 12,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff5fb",
+            "no": 497,
+            "name": "กากน้ำตาล (kg)",
+            "detail": "Molasses, at sugar refinery",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 0.1381
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Ecoinvent 2.2, IPCC 2007 GWP 100a",
+            "updatedDate": "Update_24Sep12",
+            "type": 12,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff5fc",
+            "no": 498,
+            "name": "น้ำมันมะพร้าว (kg)",
+            "detail": "Crude coconut oil, at plant",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 0.1896
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Ecoinvent 2.2, IPCC 2007 GWP 100a",
+            "updatedDate": "Update_24Sep12",
+            "type": 12,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff5fd",
+            "no": 499,
+            "name": "น้ำเชื่อม (kg)",
+            "detail": "Syrup, from sugarcane molasses, at distillery",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 0.2934
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Ecoinvent 2.2, IPCC 2007 GWP 100a",
+            "updatedDate": "Update_24Sep12",
+            "type": 12,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff5fe",
+            "no": 500,
+            "name": "เมล็ดฝ้าย (kg)",
+            "detail": "Cotton seed, at farm",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 0.3447
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Ecoinvent 2.2, IPCC 2007 GWP 100a",
+            "updatedDate": "Update_24Sep12",
+            "type": 12,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff5ff",
+            "no": 501,
+            "name": "น้ำกะทิ (kg)",
+            "detail": "",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 0.0109
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "ข้อมูลกรมวิชาการเกษตรและมหาวิทยาลัยเทคโนโลยีพระจอมเกล้าธนบุรี",
+            "updatedDate": "Update_24Sep12",
+            "type": 12,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff600",
+            "no": 502,
+            "name": "น้ำตาล (kg)",
+            "detail": "",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 1.08
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "วิทยา กันยา. 2551. \nการประเมินวัฏจักรชีวิตของกระบวนการผลิตน้ำตาลทรายแดง. มหาวิทยาลัยธรรมศาสตร์",
+            "updatedDate": "Update_24Sep12",
+            "type": 12,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff601",
+            "no": 503,
+            "name": "ใบโหระพา (kg)",
+            "detail": "",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 0.0443
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "ข้อมูลกรมวิชาการเกษตร\nสำนักส่งเสริมเศรษฐกิจและการเกษตรกรมวิชาการเกษตร",
+            "updatedDate": "Update_24Sep12",
+            "type": 12,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff602",
+            "no": 504,
+            "name": "ผงชูรส (kg)",
+            "detail": "",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 0.869
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Japanese Database",
+            "updatedDate": "Update_24Sep12",
+            "type": 12,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff603",
+            "no": 505,
+            "name": "ผิวมะกรูด (kg)",
+            "detail": "",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 0.0812
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "ข้อมูลกรมวิชาการเกษตร\nสำนักส่งเสริมเศรษฐกิจและการเกษตรกรมวิชาการเกษตร",
+            "updatedDate": "Update_24Sep12",
+            "type": 12,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff604",
+            "no": 506,
+            "name": "พริกชี้ฟ้าแดง (kg)",
+            "detail": "",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 0.12
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "ข้อมูลกรมวิชาการเกษตร\nสำนักส่งเสริมเศรษฐกิจและการเกษตรกรมวิชาการเกษตร",
+            "updatedDate": "Update_24Sep12",
+            "type": 12,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff605",
+            "no": 507,
+            "name": "มะเขือพวง (kg)",
+            "detail": "",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 0.246
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "ข้อมูลกรมวิชาการเกษตร\nสำนักส่งเสริมเศรษฐกิจและการเกษตรกรมวิชาการเกษตร",
+            "updatedDate": "Update_24Sep12",
+            "type": 12,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff606",
+            "no": 508,
+            "name": "รากผักชี (kg)",
+            "detail": "",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 0.0868
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "ข้อมูลกรมวิชาการเกษตร\nสำนักส่งเสริมเศรษฐกิจและการเกษตรกรมวิชาการเกษตร",
+            "updatedDate": "Update_24Sep12",
+            "type": 12,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        }
+    ]
+}

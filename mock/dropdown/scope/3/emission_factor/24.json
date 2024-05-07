@@ -1,0 +1,312 @@
+{
+    "Value": [
+        {
+            "_id": "64d0a3529c32d229e4cff6e0",
+            "no": 726,
+            "name": "กระดาษ / กระดาษกล่อง (kg)",
+            "detail": "",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 2.93
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "2006 IPCC Volume 5: Waste",
+            "updatedDate": "Update_09Apr15",
+            "type": 24,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff6e1",
+            "no": 727,
+            "name": "ผ้า (kg)",
+            "detail": "",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 2
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "2006 IPCC Volume 5: Waste",
+            "updatedDate": "Update_09Apr15",
+            "type": 24,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff6e2",
+            "no": 728,
+            "name": "เศษอาหาร (kg)",
+            "detail": "",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 2.53
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "2006 IPCC Volume 5: Waste",
+            "updatedDate": "Update_09Apr15",
+            "type": 24,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff6e3",
+            "no": 729,
+            "name": "เศษไม้ (kg)",
+            "detail": "",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 3.33
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "2006 IPCC Volume 5: Waste",
+            "updatedDate": "Update_09Apr15",
+            "type": 24,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff6e4",
+            "no": 730,
+            "name": "กิ่งไม้ ต้นหญ้าจากสวน (kg)",
+            "detail": "",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 3.27
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "2006 IPCC Volume 5: Waste",
+            "updatedDate": "Update_09Apr15",
+            "type": 24,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff6e5",
+            "no": 731,
+            "name": "ผ้าอ้อมเด็กทำด้วยกระดาษ (kg)",
+            "detail": "",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 4
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "2006 IPCC Volume 5: Waste",
+            "updatedDate": "Update_09Apr15",
+            "type": 24,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff6e6",
+            "no": 732,
+            "name": "ยางและหนัง (kg)",
+            "detail": "",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 3.13
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "2006 IPCC Volume 5: Waste",
+            "updatedDate": "Update_09Apr15",
+            "type": 24,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        }
+    ]
+}

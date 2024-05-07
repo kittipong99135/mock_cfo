@@ -1,0 +1,3524 @@
+{
+    "Value":[
+        {
+            "_id": "64d0a3529c32d229e4cff50b",
+            "no": 257,
+            "name": "เส้นด้ายฝ้ายหวี (kg)",
+            "detail": "จากเส้นใยฝ้าย 100; จากกระบวนการปั่นเส้นด้าย; ; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 8.7658
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database, \nTIIS-MTEC-NSTDA\n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_Mar2021",
+            "type": 7,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff50c",
+            "no": 258,
+            "name": "เส้นด้ายฝ้ายสาง (kg)",
+            "detail": "จากเส้นใยฝ้าย 100%; จากกระบวนการปั่นเส้นด้าย; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 8.0419
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database, \nTIIS-MTEC-NSTDA\n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_Mar2021",
+            "type": 7,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff50d",
+            "no": 259,
+            "name": "เส้นด้ายโพลีเอสเตอร์; จากกระบวนการปั่นเส้นด้าย (kg)",
+            "detail": "จากเส้นใยโพลีเอสเตอร์ 100%; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 3.7902
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database, \nTIIS-MTEC-NSTDA\n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_Mar2021",
+            "type": 7,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff50e",
+            "no": 260,
+            "name": "เส้นด้ายฝ้ายผสมโพลีเอสเตอร์ แบบ CVC (kg)",
+            "detail": "อัตราส่วนผสมเส้นใยฝ้าย 60% และเส้นใยโพลีเอสเตอร์ 40%; จากกระบวนการปั่นเส้นด้าย; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 4.528
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database, \nTIIS-MTEC-NSTDA\n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_Mar2021",
+            "type": 7,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff50f",
+            "no": 261,
+            "name": "เส้นด้ายฝ้ายผสมโพลีเอสเตอร์ แบบ TC (kg)",
+            "detail": "อัตราส่วนผสมเส้นใยฝ้าย 34% และเส้นใยโพลีเอสเตอร์ 66%; จากกระบวนการปั่นเส้นด้าย; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 5.5383
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database, \nTIIS-MTEC-NSTDA\n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_Mar2021",
+            "type": 7,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff510",
+            "no": 262,
+            "name": "เส้นด้ายฝ้าย (kg)",
+            "detail": "อัตราส่วนผสมเส้นใยฝ้าย > 85%; ผ่านการย้อมสี; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 12.0474
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database, \nTIIS-MTEC-NSTDA\n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_Mar2021",
+            "type": 7,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff511",
+            "no": 263,
+            "name": "เส้นด้ายโพลีเอสเตอร์; จากกระบวนการย้อมสี (kg)",
+            "detail": "อัตราส่วนผสมเส้นใยโพลีเอสเตอร์ > 85%; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 6.7552
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database, \nTIIS-MTEC-NSTDA\n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_Mar2021",
+            "type": 7,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff512",
+            "no": 264,
+            "name": "เส้นด้ายฝ้ายผสมโพลีเอสเตอร์ แบบ CVC (kg)",
+            "detail": "อัตราส่วนผสมเส้นใยโพลีเอสเตอร์ > 85%; จากกระบวนการย้อมสี; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 10.163
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database, \nTIIS-MTEC-NSTDA\n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_Mar2021",
+            "type": 7,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff513",
+            "no": 265,
+            "name": "เส้นด้ายฝ้ายผสมโพลีเอสเตอร์ แบบ TC (kg)",
+            "detail": "อัตราส่วนผสมเส้นใยฝ้าย 34% และเส้นใยโพลีเอสเตอร์ 66%; จากกระบวนการย้อมสี; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 10.3192
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database, \nTIIS-MTEC-NSTDA\n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_Mar2021",
+            "type": 7,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff514",
+            "no": 266,
+            "name": "ผ้าทอจากเส้นด้ายฝ้าย (kg)",
+            "detail": "อัตราส่วนผสมเส้นใยฝ้าย > 85%;  น้ำหนักไม่เกิน 200 กรัมต่อตารางเมตร; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 12.9209
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database, \nTIIS-MTEC-NSTDA\n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_Mar2021",
+            "type": 7,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff515",
+            "no": 267,
+            "name": "ผ้าทอจากเส้นด้ายฝ้าย; จากกระบวนการฟอกย้อมและตกแต่งสำเร็จ (kg)",
+            "detail": "อัตราส่วนผสมเส้นใยฝ้าย > 85%; น้ำหนักไม่เกิน 200 กรัมต่อตารางเมตร; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 17.1644
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database, \nTIIS-MTEC-NSTDA\n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_Mar2021",
+            "type": 7,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff516",
+            "no": 268,
+            "name": "ผ้าทอจากเส้นด้ายโพลีเอสเตอร์ (kg)",
+            "detail": "อัตราส่วนผสมเส้นใยโพลีเอสเตอร์ > 85%; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 6.5182
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database, \nTIIS-MTEC-NSTDA\n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_Mar2021",
+            "type": 7,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff517",
+            "no": 269,
+            "name": "ผ้าทอจากเส้นด้ายโพลีเอสเตอร์;จากกระบวนการฟอกย้อมและตกแต่งสำเร็จ (kg)",
+            "detail": "อัตราส่วนผสมเส้นใยโพลีเอสเตอร์ > 85%; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 12.3011
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database, \nTIIS-MTEC-NSTDA\n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_Mar2021",
+            "type": 7,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff518",
+            "no": 270,
+            "name": "ผ้าทอจากเส้นด้ายฝ้ายผสมโพลีเอสเตอร์ แบบ CVC (kg)",
+            "detail": "อัตราส่วนผสมเส้นใยฝ้าย 60% และเส้นใยโพลีเอสเตอร์ 40%; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 7.1974
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database, \nTIIS-MTEC-NSTDA\n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_Mar2021",
+            "type": 7,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff519",
+            "no": 271,
+            "name": "ผ้าทอจากเส้นด้ายฝ้ายผสมโพลีเอสเตอร์ แบบ CVC; จากกระบวนการฟอกย้อมและตกแต่งสำเร็จ (kg)",
+            "detail": "อัตราส่วนผสมเส้นใยฝ้าย 60% และเส้นใยโพลีเอสเตอร์ 40%; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 11.7725
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database, \nTIIS-MTEC-NSTDA\n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_Mar2021",
+            "type": 7,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff51a",
+            "no": 272,
+            "name": "ผ้าทอจากเส้นด้ายฝ้ายผสมโพลีเอสเตอร์ แบบ TC (kg)",
+            "detail": "อัตราส่วนผสมเส้นใยฝ้าย 34% และเส้นใยโพลีเอสเตอร์ 66%; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 9.0498
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database, \nTIIS-MTEC-NSTDA\n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_Mar2021",
+            "type": 7,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff51b",
+            "no": 273,
+            "name": "ผ้าทอจากเส้นด้ายฝ้ายผสมโพลีเอสเตอร์ แบบ TC; จากกระบวนการฟอกย้อมและตกแต่งสำเร็จ (kg)",
+            "detail": "อัตราส่วนผสมเส้นใยฝ้าย 34% และเส้นใยโพลีเอสเตอร์ 66%; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 15.4007
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database, \nTIIS-MTEC-NSTDA\n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_Mar2021",
+            "type": 7,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff51c",
+            "no": 274,
+            "name": "ผ้าถักจากเส้นด้ายฝ้าย (kg)",
+            "detail": "อัตราส่วนผสมเส้นใยฝ้าย > 85%; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 8.8571
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database, \nTIIS-MTEC-NSTDA\n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_Mar2021",
+            "type": 7,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff51d",
+            "no": 275,
+            "name": "ผ้าถักจากเส้นด้ายฝ้าย; จากกระบวนการฟอกย้อมและตกแต่งสำเร็จ (kg)",
+            "detail": "อัตราส่วนผสมเส้นใยฝ้าย > 85%; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 12.926
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database, \nTIIS-MTEC-NSTDA\n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_Mar2021",
+            "type": 7,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff51e",
+            "no": 276,
+            "name": "ผ้าถักจากเส้นด้ายโพลีเอสเตอร์ (kg)",
+            "detail": "อัตราส่วนผสมเส้นใยโพลีเอสเตอร์ > 85%; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 4.5496
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database, \nTIIS-MTEC-NSTDA\n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_Mar2021",
+            "type": 7,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff51f",
+            "no": 277,
+            "name": "ผ้าถักจากเส้นด้ายโพลีเอสเตอร์; จากกระบวนการฟอกย้อมและตกแต่งสำเร็จ (kg)",
+            "detail": "อัตราส่วนผสมเส้นใยโพลีเอสเตอร์ > 85%; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 7.1259
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database, \nTIIS-MTEC-NSTDA\n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_Mar2021",
+            "type": 7,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff520",
+            "no": 278,
+            "name": "ผ้าถักจากเส้นด้ายฝ้ายผสมโพลีเอสเตอร์ แบบ CVC (kg)",
+            "detail": "อัตราส่วนผสมเส้นใยฝ้าย 60% และเส้นใยโพลีเอสเตอร์ 40%; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 5.3651
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database, \nTIIS-MTEC-NSTDA\n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_Mar2021",
+            "type": 7,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff521",
+            "no": 279,
+            "name": "ผ้าถักจากเส้นด้ายฝ้ายผสมโพลีเอสเตอร์ แบบ CVC; จากกระบวนการฟอกย้อมและตกแต่งสำเร็จ (kg)",
+            "detail": "อัตราส่วนผสมเส้นใยฝ้าย 60% และเส้นใยโพลีเอสเตอร์ 40%; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 9.2033
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database, \nTIIS-MTEC-NSTDA\n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_Mar2021",
+            "type": 7,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff522",
+            "no": 280,
+            "name": "ผ้าถักจากเส้นด้ายฝ้ายผสมโพลีเอสเตอร์ แบบ TC (kg)",
+            "detail": "อัตราส่วนผสมเส้นใยฝ้าย 34% และเส้นใยโพลีเอสเตอร์ 66%; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 5.978
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database, \nTIIS-MTEC-NSTDA\n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_Mar2021",
+            "type": 7,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff523",
+            "no": 281,
+            "name": "ผ้าถักจากเส้นด้ายฝ้ายผสมโพลีเอสเตอร์ แบบ TC; จากกระบวนการฟอกย้อมและตกแต่งสำเร็จ (kg)",
+            "detail": "อัตราส่วนผสมเส้นใยฝ้าย 34% และเส้นใยโพลีเอสเตอร์ 66%",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 9.4445
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database/MTEC",
+            "updatedDate": "Update_09Apr15",
+            "type": 7,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff524",
+            "no": 282,
+            "name": "คาร์บอนไฟเบอร์ (kg)",
+            "detail": "",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 7.55
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Ecoinvent 2.0 (ส่วนผสมของ graphite และ ไนล่อน)",
+            "updatedDate": "Update_24Aug11",
+            "type": 7,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff525",
+            "no": 283,
+            "name": "ผ้าถัก CVC (70/30) (kg)",
+            "detail": "",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 11.69
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "โครงการพัฒนาข้อกำหนดรายผลิตภัณฑ์สิ่งทอ, 2554",
+            "updatedDate": "Update_24Aug11",
+            "type": 7,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff526",
+            "no": 284,
+            "name": "ผ้าถัก CVC (70/30) (เฉดสีกลาง) (kg)",
+            "detail": "",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 17.2
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "โครงการพัฒนาข้อกำหนดรายผลิตภัณฑ์สิ่งทอ, 2554",
+            "updatedDate": "Update_24Aug11",
+            "type": 7,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff527",
+            "no": 285,
+            "name": "ผ้าถัก CVC (70/30) (เฉดสีเข้ม) (kg)",
+            "detail": "",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 20.46
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "โครงการพัฒนาข้อกำหนดรายผลิตภัณฑ์สิ่งทอ, 2554",
+            "updatedDate": "Update_24Aug11",
+            "type": 7,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff528",
+            "no": 286,
+            "name": "ผ้าถัก CVC (70/30) (เฉดสีเข้มมาก) (kg)",
+            "detail": "",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 23.81
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "โครงการพัฒนาข้อกำหนดรายผลิตภัณฑ์สิ่งทอ, 2554",
+            "updatedDate": "Update_24Aug11",
+            "type": 7,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff529",
+            "no": 287,
+            "name": "ผ้าถัก CVC (70/30) (เฉดสีอ่อน) (kg)",
+            "detail": "",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 15.36
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "โครงการพัฒนาข้อกำหนดรายผลิตภัณฑ์สิ่งทอ, 2554",
+            "updatedDate": "Update_24Aug11",
+            "type": 7,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff52a",
+            "no": 288,
+            "name": "ผ้าถัก TC (65/35) (kg)",
+            "detail": "",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 11.56
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "โครงการพัฒนาข้อกำหนดรายผลิตภัณฑ์สิ่งทอ, 2554",
+            "updatedDate": "Update_24Aug11",
+            "type": 7,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff52b",
+            "no": 289,
+            "name": "ผ้าถัก TC (65/35) (เฉดสีกลาง) (kg)",
+            "detail": "",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 17.25
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "โครงการพัฒนาข้อกำหนดรายผลิตภัณฑ์สิ่งทอ, 2554",
+            "updatedDate": "Update_24Aug11",
+            "type": 7,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff52c",
+            "no": 290,
+            "name": "ผ้าถัก TC (65/35) (เฉดสีเข้ม) (kg)",
+            "detail": "",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 20.89
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "โครงการพัฒนาข้อกำหนดรายผลิตภัณฑ์สิ่งทอ, 2554",
+            "updatedDate": "Update_24Aug11",
+            "type": 7,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff52d",
+            "no": 291,
+            "name": "ผ้าถัก TC (65/35)  (เฉดสีเข้มมาก) (kg)",
+            "detail": "",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 24.61
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "โครงการพัฒนาข้อกำหนดรายผลิตภัณฑ์สิ่งทอ, 2554",
+            "updatedDate": "Update_24Aug11",
+            "type": 7,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff52e",
+            "no": 292,
+            "name": "ผ้าถัก TC (65/35) (เฉดสีอ่อน) (kg)",
+            "detail": "",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 15.21
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "โครงการพัฒนาข้อกำหนดรายผลิตภัณฑ์สิ่งทอ, 2554",
+            "updatedDate": "Update_24Aug11",
+            "type": 7,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff52f",
+            "no": 293,
+            "name": "ผ้าถักฝ้าย (kg)",
+            "detail": "",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 12.62
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "โครงการพัฒนาข้อกำหนดรายผลิตภัณฑ์สิ่งทอ, 2554",
+            "updatedDate": "Update_24Aug11",
+            "type": 7,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff530",
+            "no": 294,
+            "name": "ผ้าถักฝ้าย (เฉดสีกลาง) (kg)",
+            "detail": "",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 18.05
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "โครงการพัฒนาข้อกำหนดรายผลิตภัณฑ์สิ่งทอ, 2554",
+            "updatedDate": "Update_24Aug11",
+            "type": 7,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff531",
+            "no": 295,
+            "name": "ผ้าถักฝ้าย (เฉดสีเข้ม) (kg)",
+            "detail": "",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 21
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "โครงการพัฒนาข้อกำหนดรายผลิตภัณฑ์สิ่งทอ, 2554",
+            "updatedDate": "Update_24Aug11",
+            "type": 7,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff532",
+            "no": 296,
+            "name": "ผ้าถักฝ้าย (เฉดสีเข้มมาก) (kg)",
+            "detail": "",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 24.02
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "โครงการพัฒนาข้อกำหนดรายผลิตภัณฑ์สิ่งทอ, 2554",
+            "updatedDate": "Update_24Aug11",
+            "type": 7,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff533",
+            "no": 297,
+            "name": "ผ้าถักฝ้าย (เฉดสีอ่อน) (kg)",
+            "detail": "",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 16.39
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "โครงการพัฒนาข้อกำหนดรายผลิตภัณฑ์สิ่งทอ, 2554",
+            "updatedDate": "Update_24Aug11",
+            "type": 7,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff534",
+            "no": 298,
+            "name": "ผ้าถักโพลิเอสเทอร์ (kg)",
+            "detail": "",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 5.44
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "โครงการพัฒนาข้อกำหนดรายผลิตภัณฑ์สิ่งทอ, 2554",
+            "updatedDate": "Update_24Aug11",
+            "type": 7,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff535",
+            "no": 299,
+            "name": "ผ้าถักโพลิเอสเทอร์ (เฉดสีกลาง) (kg)",
+            "detail": "",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 11.21
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "โครงการพัฒนาข้อกำหนดรายผลิตภัณฑ์สิ่งทอ, 2554",
+            "updatedDate": "Update_24Aug11",
+            "type": 7,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff536",
+            "no": 300,
+            "name": "ผ้าถักโพลิเอสเทอร์ (เฉดสีเข้ม) (kg)",
+            "detail": "",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 15.22
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "โครงการพัฒนาข้อกำหนดรายผลิตภัณฑ์สิ่งทอ, 2554",
+            "updatedDate": "Update_24Aug11",
+            "type": 7,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff537",
+            "no": 301,
+            "name": "ผ้าถักโพลิเอสเทอร์ (เฉดสีเข้มมาก) (kg)",
+            "detail": "",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 19.33
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "โครงการพัฒนาข้อกำหนดรายผลิตภัณฑ์สิ่งทอ, 2554",
+            "updatedDate": "Update_24Aug11",
+            "type": 7,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff538",
+            "no": 302,
+            "name": "ผ้าถักโพลิเอสเทอร์ (เฉดสีอ่อน) (kg)",
+            "detail": "",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 8.96
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "โครงการพัฒนาข้อกำหนดรายผลิตภัณฑ์สิ่งทอ, 2554",
+            "updatedDate": "Update_24Aug11",
+            "type": 7,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff539",
+            "no": 303,
+            "name": "ผ้าทอ CVC (70/30) (kg)",
+            "detail": "",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 17.17
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "โครงการพัฒนาข้อกำหนดรายผลิตภัณฑ์สิ่งทอ, 2554",
+            "updatedDate": "Update_24Aug11",
+            "type": 7,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff53a",
+            "no": 304,
+            "name": "ผ้าทอ CVC (70/30) (เฉดสีกลาง) (kg)",
+            "detail": "",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 23.09
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "โครงการพัฒนาข้อกำหนดรายผลิตภัณฑ์สิ่งทอ, 2554",
+            "updatedDate": "Update_24Aug11",
+            "type": 7,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff53b",
+            "no": 305,
+            "name": "ผ้าทอ CVC (70/30) (เฉดสีเข้ม) (kg)",
+            "detail": "",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 26.35
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "โครงการพัฒนาข้อกำหนดรายผลิตภัณฑ์สิ่งทอ, 2554",
+            "updatedDate": "Update_24Aug11",
+            "type": 7,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff53c",
+            "no": 306,
+            "name": "ผ้าทอ CVC (70/30) (เฉดสีเข้มมาก) (kg)",
+            "detail": "",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 29.7
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "โครงการพัฒนาข้อกำหนดรายผลิตภัณฑ์สิ่งทอ, 2554",
+            "updatedDate": "Update_24Aug11",
+            "type": 7,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff53d",
+            "no": 307,
+            "name": "ผ้าทอ CVC (70/30) (เฉดสีอ่อน) (kg)",
+            "detail": "",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 21.25
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "โครงการพัฒนาข้อกำหนดรายผลิตภัณฑ์สิ่งทอ, 2554",
+            "updatedDate": "Update_24Aug11",
+            "type": 7,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff53e",
+            "no": 308,
+            "name": "ผ้าทอ TC (65/35) (kg)",
+            "detail": "",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 15.91
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "โครงการพัฒนาข้อกำหนดรายผลิตภัณฑ์สิ่งทอ, 2554",
+            "updatedDate": "Update_24Aug11",
+            "type": 7,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff53f",
+            "no": 309,
+            "name": "ผ้าทอ TC (65/35) (เฉดสีกลาง) (kg)",
+            "detail": "",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 21.82
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "โครงการพัฒนาข้อกำหนดรายผลิตภัณฑ์สิ่งทอ, 2554",
+            "updatedDate": "Update_24Aug11",
+            "type": 7,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff540",
+            "no": 310,
+            "name": "ผ้าทอ TC (65/35) (เฉดสีเข้ม) (kg)",
+            "detail": "",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 25.45
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "โครงการพัฒนาข้อกำหนดรายผลิตภัณฑ์สิ่งทอ, 2554",
+            "updatedDate": "Update_24Aug11",
+            "type": 7,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff541",
+            "no": 311,
+            "name": "ผ้าทอ TC (65/35) (เฉดสีเข้มมาก) (kg)",
+            "detail": "",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 29.18
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "โครงการพัฒนาข้อกำหนดรายผลิตภัณฑ์สิ่งทอ, 2554",
+            "updatedDate": "Update_24Aug11",
+            "type": 7,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff542",
+            "no": 312,
+            "name": "ผ้าทอ TC (65/35) (เฉดสีอ่อน) (kg)",
+            "detail": "",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 19.77
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "โครงการพัฒนาข้อกำหนดรายผลิตภัณฑ์สิ่งทอ, 2554",
+            "updatedDate": "Update_24Aug11",
+            "type": 7,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff543",
+            "no": 313,
+            "name": "ผ้าทอฝ้าย (kg)",
+            "detail": "",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 18.24
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "โครงการพัฒนาข้อกำหนดรายผลิตภัณฑ์สิ่งทอ, 2554",
+            "updatedDate": "Update_24Aug11",
+            "type": 7,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff544",
+            "no": 314,
+            "name": "ผ้าทอฝ้าย (เฉดสีอ่อน) (kg)",
+            "detail": "",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 22.58
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "โครงการพัฒนาข้อกำหนดรายผลิตภัณฑ์สิ่งทอ, 2554",
+            "updatedDate": "Update_24Aug11",
+            "type": 7,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff545",
+            "no": 315,
+            "name": "ผ้าทอฝ้าย (เฉดสีกลาง) (kg)",
+            "detail": "",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 24.23
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "โครงการพัฒนาข้อกำหนดรายผลิตภัณฑ์สิ่งทอ, 2554",
+            "updatedDate": "Update_24Aug11",
+            "type": 7,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff546",
+            "no": 316,
+            "name": "ผ้าทอฝ้าย (เฉดสีเข้ม) (kg)",
+            "detail": "",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 27.18
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "โครงการพัฒนาข้อกำหนดรายผลิตภัณฑ์สิ่งทอ, 2554",
+            "updatedDate": "Update_24Aug11",
+            "type": 7,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff547",
+            "no": 317,
+            "name": "ผ้าทอฝ้าย (เฉดสีเข้มมาก) (kg)",
+            "detail": "",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 30.2
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "โครงการพัฒนาข้อกำหนดรายผลิตภัณฑ์สิ่งทอ, 2554",
+            "updatedDate": "Update_24Aug11",
+            "type": 7,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff548",
+            "no": 318,
+            "name": "ผ้าทอโพลิเอสเทอร์ (kg)",
+            "detail": "",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 9.41
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "โครงการพัฒนาข้อกำหนดรายผลิตภัณฑ์สิ่งทอ, 2554",
+            "updatedDate": "Update_24Aug11",
+            "type": 7,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff549",
+            "no": 319,
+            "name": "ผ้าทอโพลิเอสเทอร์ (เฉดสีกลาง) (kg)",
+            "detail": "",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 15.26
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "โครงการพัฒนาข้อกำหนดรายผลิตภัณฑ์สิ่งทอ, 2554",
+            "updatedDate": "Update_24Aug11",
+            "type": 7,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff54a",
+            "no": 320,
+            "name": "ผ้าทอโพลิเอสเทอร์ (เฉดสีเข้ม) (kg)",
+            "detail": "",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 19.27
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "โครงการพัฒนาข้อกำหนดรายผลิตภัณฑ์สิ่งทอ, 2554",
+            "updatedDate": "Update_24Aug11",
+            "type": 7,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff54b",
+            "no": 321,
+            "name": "ผ้าทอโพลิเอสเทอร์ (เฉดสีเข้มมาก) (kg)",
+            "detail": "",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 23.37
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "โครงการพัฒนาข้อกำหนดรายผลิตภัณฑ์สิ่งทอ, 2554",
+            "updatedDate": "Update_24Aug11",
+            "type": 7,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff54c",
+            "no": 322,
+            "name": "ผ้าทอโพลิเอสเทอร์ (เฉดสีอ่อน) (kg)",
+            "detail": "",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 13.01
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "โครงการพัฒนาข้อกำหนดรายผลิตภัณฑ์สิ่งทอ, 2554",
+            "updatedDate": "Update_24Aug11",
+            "type": 7,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff54d",
+            "no": 323,
+            "name": "เส้นด้าย CVC (70/30) (kg)",
+            "detail": "",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 11.01
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "โครงการพัฒนาข้อกำหนดรายผลิตภัณฑ์สิ่งทอ, 2554",
+            "updatedDate": "Update_24Aug11",
+            "type": 7,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff54e",
+            "no": 324,
+            "name": "เส้นด้าย TC (65/35) (kg)",
+            "detail": "",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 9.98
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "โครงการพัฒนาข้อกำหนดรายผลิตภัณฑ์สิ่งทอ, 2554",
+            "updatedDate": "Update_24Aug11",
+            "type": 7,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff54f",
+            "no": 325,
+            "name": "เส้นด้ายปอกระเจา (kg)",
+            "detail": "",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 0.5161
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "โครงการพัฒนาข้อกำหนดรายผลิตภัณฑ์สิ่งทอ, 2554",
+            "updatedDate": "Update_24Aug11",
+            "type": 7,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff550",
+            "no": 326,
+            "name": "เส้นด้ายฝ้าย (kg)",
+            "detail": "",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 11.9
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "โครงการพัฒนาข้อกำหนดรายผลิตภัณฑ์สิ่งทอ, 2554",
+            "updatedDate": "Update_24Aug11",
+            "type": 7,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff551",
+            "no": 327,
+            "name": "เส้นด้ายโพลิเอสเทอร์ (kg)",
+            "detail": "",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 4.13
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "โครงการพัฒนาข้อกำหนดรายผลิตภัณฑ์สิ่งทอ, 2554",
+            "updatedDate": "Update_24Aug11",
+            "type": 7,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff552",
+            "no": 328,
+            "name": "เส้นใยขนแกะ (kg)",
+            "detail": "",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 41.3
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "โครงการพัฒนาข้อกำหนดรายผลิตภัณฑ์สิ่งทอ, 2554",
+            "updatedDate": "Update_24Aug11",
+            "type": 7,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff553",
+            "no": 329,
+            "name": "เส้นใยไนล่อน 6 ใยยาว (SDY) (kg)",
+            "detail": "",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 5.65
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "โครงการพัฒนาข้อกำหนดรายผลิตภัณฑ์สิ่งทอ, 2554",
+            "updatedDate": "Update_24Aug11",
+            "type": 7,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff554",
+            "no": 330,
+            "name": "เส้นใยฝ้าย (เฉลี่ย) การนำเข้า การผลิตแบบดั้งเติม (kg)",
+            "detail": "",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 5.79
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "โครงการพัฒนาข้อกำหนดรายผลิตภัณฑ์สิ่งทอ, 2554",
+            "updatedDate": "Update_24Aug11",
+            "type": 7,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff555",
+            "no": 331,
+            "name": "เส้นใยฝ้าย US การผลิตแบบดั้งเดิม (kg)",
+            "detail": "",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 6.05
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "โครงการพัฒนาข้อกำหนดรายผลิตภัณฑ์สิ่งทอ, 2554",
+            "updatedDate": "Update_24Aug11",
+            "type": 7,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff556",
+            "no": 332,
+            "name": "เส้นใยฝ้าย US การผลิตแบบออร์แกนนิกส์ (kg)",
+            "detail": "",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 2.45
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "โครงการพัฒนาข้อกำหนดรายผลิตภัณฑ์สิ่งทอ, 2554",
+            "updatedDate": "Update_24Aug11",
+            "type": 7,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff557",
+            "no": 333,
+            "name": "เส้นใยโพลีเอสเตอร์ใยยาว (SDY) (kg)",
+            "detail": "",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 5.47
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "โครงการพัฒนาข้อกำหนดรายผลิตภัณฑ์สิ่งทอ, 2554",
+            "updatedDate": "Update_24Aug11",
+            "type": 7,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff558",
+            "no": 334,
+            "name": "เส้นใยโพลีเอสเตอร์ใยสั้น (PSF) (kg)",
+            "detail": "",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 3.49
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "โครงการพัฒนาข้อกำหนดรายผลิตภัณฑ์สิ่งทอ, 2554",
+            "updatedDate": "Update_24Aug11",
+            "type": 7,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff559",
+            "no": 335,
+            "name": "เส้นใยเรยอนใยสั้น (kg)",
+            "detail": "",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 7.28
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "โครงการพัฒนาข้อกำหนดรายผลิตภัณฑ์สิ่งทอ, 2554",
+            "updatedDate": "Update_24Aug11",
+            "type": 7,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff55a",
+            "no": 336,
+            "name": "เส้นใยอะคริลิคใยสั้น (ASF) (kg)",
+            "detail": "",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 10.1
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "โครงการพัฒนาข้อกำหนดรายผลิตภัณฑ์สิ่งทอ, 2554",
+            "updatedDate": "Update_24Aug11",
+            "type": 7,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        }
+    ]
+}

@@ -1,0 +1,356 @@
+{
+    "Value":[
+        {
+            "_id": "64d0a3529c32d229e4cff55b",
+            "no": 337,
+            "name": "ยางก้อนถ้วย (DRC 55%) (kg)",
+            "detail": "DRC 55%; ได้จากการเติมกรดซัลฟูริกลงในน้ำยางสด; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 0.0863
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database, \nTIIS-MTEC-NSTDA\n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_Dec2019",
+            "type": 8,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff55c",
+            "no": 338,
+            "name": "น้ำยางข้น (DRC 60%) (kg)",
+            "detail": "DRC 60%; ใช้เทคโนโลยีการผลิตโดยการปั่นแยก; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 0.2059
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database, \nTIIS-MTEC-NSTDA\n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_Dec2019",
+            "type": 8,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff55d",
+            "no": 339,
+            "name": "ยางสกิม (kg)",
+            "detail": "DRC 90%; ผลิตภัณฑ์ยางสกิมคละประเภทและคุณภาพ; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 0.3903
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database, \nTIIS-MTEC-NSTDA\n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_Dec2019",
+            "type": 8,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff55e",
+            "no": 340,
+            "name": "ยางแท่ง STR 10/20 (kg)",
+            "detail": "ผลิตจากยางก้อนถ้วย ยางแผ่นดิบและเศษยาง โดยผ่านกระบวนการสับบดย่อย ล้างทำความสะอาด อบแห้ง อัดแท่ง และบรรจุหีบห่อ; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 0.2966
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database, \nTIIS-MTEC-NSTDA\n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_Dec2019",
+            "type": 8,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff55f",
+            "no": 341,
+            "name": "ยางแท่ง STR XL/5L/5CV (kg)",
+            "detail": "DRC 91.31%; ผลิตภจากน้ำยางสดและผ่านกระบวนการจับตัวด้วยกรดตัดย่อยและอบแห้ง; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 0.2071
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database, \nTIIS-MTEC-NSTDA\n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_Dec2019",
+            "type": 8,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff560",
+            "no": 342,
+            "name": "กล้ายางชำถุง (p)",
+            "detail": "ครอบคลุมตั้งแต่การดูแลต้นพันธุ์ยาง การเพาะกล้ายางในแปลง และการติดตายางและชำถุง; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 0.347
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database, \nTIIS-MTEC-NSTDA\n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_Dec2019",
+            "type": 8,
+            "unit": "64d09b2c9c32d229e4cff409",
+            "scope": 3,
+            "unitText": {
+                "_id": "64d09b2c9c32d229e4cff409",
+                "text": "p"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff561",
+            "no": 343,
+            "name": "Synthetic rubber (kg)",
+            "detail": "Synthetic rubber, at plant",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 3.5138
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Ecoinvent 2.2, \nIPCC 2007 GWP 100a",
+            "updatedDate": "Update_24Sep12",
+            "type": 8,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff562",
+            "no": 344,
+            "name": "Styrene butadiene rubber (SBR) (kg)",
+            "detail": "",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 0.9732
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Franklin USA 98",
+            "updatedDate": "Update_24Sep12",
+            "type": 8,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        }
+    ]
+}

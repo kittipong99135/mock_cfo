@@ -1,0 +1,69 @@
+{
+    "Value": [
+        {
+          "Title": "scope 1",
+          "Memo": null,
+          "CreatedOn": "2024-04-28T11:13:10Z",
+          "LastModifiedOn": "2024-04-28T11:13:10Z",
+          "LastModifiedBy": "045452ba-3f1b-4ce1-8653-240f9aa61dc5",
+          "CreatedBy": "045452ba-3f1b-4ce1-8653-240f9aa61dc5",
+          "Stat": null,
+          "Deleted": false,
+          "Disable": false,
+          "Tag": null,
+          "Id": 1
+        },
+        {
+          "Title": "scope 2",
+          "Memo": null,
+          "CreatedOn": "2024-04-28T11:13:10Z",
+          "LastModifiedOn": "2024-04-28T11:13:10Z",
+          "LastModifiedBy": "045452ba-3f1b-4ce1-8653-240f9aa61dc5",
+          "CreatedBy": "045452ba-3f1b-4ce1-8653-240f9aa61dc5",
+          "Stat": null,
+          "Deleted": false,
+          "Disable": false,
+          "Tag": null,
+          "Id": 2
+        },
+        {
+          "Title": "scope 3",
+          "Memo": null,
+          "CreatedOn": "2024-04-28T11:13:10Z",
+          "LastModifiedOn": "2024-04-28T11:13:10Z",
+          "LastModifiedBy": "045452ba-3f1b-4ce1-8653-240f9aa61dc5",
+          "CreatedBy": "045452ba-3f1b-4ce1-8653-240f9aa61dc5",
+          "Stat": null,
+          "Deleted": false,
+          "Disable": false,
+          "Tag": null,
+          "Id": 3
+        },
+        {
+          "Title": "แยกรายงาน",
+          "Memo": null,
+          "CreatedOn": "2024-04-28T11:13:10Z",
+          "LastModifiedOn": "2024-04-28T11:13:10Z",
+          "LastModifiedBy": "045452ba-3f1b-4ce1-8653-240f9aa61dc5",
+          "CreatedBy": "045452ba-3f1b-4ce1-8653-240f9aa61dc5",
+          "Stat": null,
+          "Deleted": false,
+          "Disable": true,
+          "Tag": null,
+          "Id": 4
+        },
+        {
+          "Title": "Removal",
+          "Memo": null,
+          "CreatedOn": "2024-04-28T11:13:10Z",
+          "LastModifiedOn": "2024-04-28T11:13:10Z",
+          "LastModifiedBy": "045452ba-3f1b-4ce1-8653-240f9aa61dc5",
+          "CreatedBy": "045452ba-3f1b-4ce1-8653-240f9aa61dc5",
+          "Stat": null,
+          "Deleted": false,
+          "Disable": true,
+          "Tag": null,
+          "Id": 5
+        }
+      ]
+}

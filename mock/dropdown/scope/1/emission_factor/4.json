@@ -1,0 +1,361 @@
+{
+    "Value": [
+        {
+            "_id": "63ff0c0e35953c0ad26b6f61",
+            "ghgReport": {
+                "formula": {
+                    "CH4": "FossilCH4",
+                    "N2O": "N2O"
+                },
+                "CO2": 0,
+                "CH4": 0,
+                "FossilCH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 1760
+            },
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "name": "R-22 (HCFC-22) (kg)",
+            "type": 4,
+            "reference": "IPCC 2013, AR5",
+            "histories": [],
+            "unit": "63eefe644c6c12d11bac0534",
+            "activities_log": [],
+            "createdAt": "2023-03-01T08:25:50.729Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "deletedAt": null,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "63ff0c0e35953c0ad26b6f63",
+            "ghgReport": {
+                "formula": {
+                    "CH4": "FossilCH4",
+                    "N2O": "N2O"
+                },
+                "CO2": 0,
+                "CH4": 0,
+                "FossilCH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 3170
+            },
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "name": "R-125 (kg)",
+            "type": 4,
+            "reference": "IPCC 2013, AR5",
+            "histories": [],
+            "unit": "63eefe644c6c12d11bac0534",
+            "activities_log": [],
+            "createdAt": "2023-03-01T08:25:50.729Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "deletedAt": null,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "63ff0c0e35953c0ad26b6f64",
+            "ghgReport": {
+                "formula": {
+                    "CH4": "FossilCH4",
+                    "N2O": "N2O"
+                },
+                "CO2": 0,
+                "CH4": 0,
+                "FossilCH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 1120
+            },
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "name": "R-134 (kg)",
+            "type": 4,
+            "reference": "IPCC 2013, AR5",
+            "histories": [],
+            "unit": "63eefe644c6c12d11bac0534",
+            "activities_log": [],
+            "createdAt": "2023-03-01T08:25:50.729Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "deletedAt": null,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "63ff0c0e35953c0ad26b6f65",
+            "ghgReport": {
+                "formula": {
+                    "CH4": "FossilCH4",
+                    "N2O": "N2O"
+                },
+                "CO2": 0,
+                "CH4": 0,
+                "FossilCH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 1300
+            },
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "name": "R-134a (kg)",
+            "type": 4,
+            "reference": "IPCC 2013, AR5",
+            "histories": [],
+            "unit": "63eefe644c6c12d11bac0534",
+            "activities_log": [],
+            "createdAt": "2023-03-01T08:25:50.729Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "deletedAt": null,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "63ff0c0e35953c0ad26b6f66",
+            "ghgReport": {
+                "formula": {
+                    "CH4": "FossilCH4",
+                    "N2O": "N2O"
+                },
+                "CO2": 0,
+                "CH4": 0,
+                "FossilCH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 328
+            },
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "name": "R-143 (kg)",
+            "type": 4,
+            "reference": "IPCC 2013, AR5",
+            "histories": [],
+            "unit": "63eefe644c6c12d11bac0534",
+            "activities_log": [],
+            "createdAt": "2023-03-01T08:25:50.729Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "deletedAt": null,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "63ff0c0e35953c0ad26b6f67",
+            "ghgReport": {
+                "formula": {
+                    "CH4": "FossilCH4",
+                    "N2O": "N2O"
+                },
+                "CO2": 0,
+                "CH4": 0,
+                "FossilCH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 4800
+            },
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "name": "R-143a (kg)",
+            "type": 4,
+            "reference": "IPCC 2013, AR5",
+            "histories": [],
+            "unit": "63eefe644c6c12d11bac0534",
+            "activities_log": [],
+            "createdAt": "2023-03-01T08:25:50.729Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "deletedAt": null,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "63ff0c0e35953c0ad26b6f62",
+            "ghgReport": {
+                "formula": {
+                    "CH4": "FossilCH4",
+                    "N2O": "N2O"
+                },
+                "CO2": 0,
+                "CH4": 0,
+                "FossilCH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 677
+            },
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "name": "R-32 (kg)",
+            "type": 4,
+            "reference": "IPCC 2013, AR5",
+            "histories": [],
+            "unit": "63eefe644c6c12d11bac0534",
+            "activities_log": [],
+            "createdAt": "2023-03-01T08:25:50.729Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "deletedAt": null,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "65f3d649c6ec0400ba77c83c",
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": "FossilCH4",
+                    "N2O": "N2O"
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 0
+            },
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "name": "Chareef (rai (ไร่)) (Deleted)",
+            "detail": "",
+            "unit": "64ec1beed8cb029aa00a4a54",
+            "scope": 0,
+            "type": 4,
+            "reference": "xdxxx",
+            "histories": [],
+            "deletedAt": "2024-03-15T05:13:15.662Z",
+            "activities_log": [],
+            "createdAt": "2024-03-15T05:02:01.453Z",
+            "updatedAt": "2024-03-15T05:13:15.663Z",
+            "unitText": {
+                "_id": "64ec1beed8cb029aa00a4a54",
+                "text": "rai (ไร่)"
+            },
+            "deleteDate": " (Deleted)",
+            "isDelete": true
+        },
+        {
+            "_id": "65f3d649c6ec0400ba77c83d",
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": "FossilCH4",
+                    "N2O": "N2O"
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 0
+            },
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "name": "Chareef (rai (ไร่)) (Deleted)",
+            "detail": "",
+            "unit": "64ec1beed8cb029aa00a4a54",
+            "scope": 0,
+            "type": 4,
+            "reference": "",
+            "histories": [],
+            "deletedAt": "2024-03-15T05:02:08.930Z",
+            "activities_log": [],
+            "createdAt": "2024-03-15T05:02:01.471Z",
+            "updatedAt": "2024-03-15T05:02:08.931Z",
+            "unitText": {
+                "_id": "64ec1beed8cb029aa00a4a54",
+                "text": "rai (ไร่)"
+            },
+            "deleteDate": " (Deleted)",
+            "isDelete": true
+        }
+    ]
+}

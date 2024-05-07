@@ -1,0 +1,40 @@
+{
+    "Value" : [   
+        {
+            "_id": 1,
+            "scope": 1,
+            "emissionFactorType": 1,
+            "emissionFactorTypeName": "Stationary Combustion"
+        },
+        {
+            "_id": 2,
+            "scope": 1,
+            "emissionFactorType": 2,
+            "emissionFactorTypeName": "Mobile Combustion (On road)"
+        },
+        {
+            "_id": 3,
+            "scope": 1,
+            "emissionFactorType": 3,
+            "emissionFactorTypeName": "Mobile Combustion (Off road)"
+        },
+        {
+            "_id": 4,
+            "scope": 1,
+            "emissionFactorType": 4,
+            "emissionFactorTypeName": "Refrigerants"
+        },
+        {
+            "_id": 5,
+            "scope": 1,
+            "emissionFactorType": 5,
+            "emissionFactorTypeName": "Fugitive emission"
+        },
+        {
+            "_id": 6,
+            "scope": 1,
+            "emissionFactorType": 6,
+            "emissionFactorTypeName": "Custom Scope1"
+        }
+    ]
+}

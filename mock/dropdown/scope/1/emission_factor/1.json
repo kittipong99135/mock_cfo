@@ -1,0 +1,885 @@
+{
+    "Value":[
+        {
+            "_id": "63fec84e5d06c603aeb1f2e0",
+            "ghgReport": {
+                "CO2": 0.057222,
+                "CH4": 0,
+                "FossilCH4": 0.00000102,
+                "N2O": 1.02e-7,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 0.0573,
+                "formula": {
+                    "CH4": "CH4",
+                    "N2O": "N2O",
+                    "GHGCH4": "FossilCH4"
+                }
+            },
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "name": "Natural gas (scf)",
+            "type": 3,
+            "reference": "IPCC Vol.2 table 2.2, DEDE",
+            "histories": [],
+            "unit": "63ff000e667726a8abd2c0e5",
+            "activities_log": [],
+            "createdAt": "2023-03-01T03:36:46.415Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "deletedAt": null,
+            "unitText": {
+                "_id": "63ff000e667726a8abd2c0e5",
+                "text": "scf"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "63fefde177637e0a65da5876",
+            "ghgReport": {
+                "formula": {
+                    "CH4": "CH4",
+                    "N2O": "N2O",
+                    "GHGCH4": "FossilCH4"
+                },
+                "CO2": 0.0561,
+                "CH4": 0,
+                "FossilCH4": 0.000001,
+                "N2O": 1e-7,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 0.0562
+            },
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "name": "Natural gas (MJ)",
+            "type": 3,
+            "reference": "IPCC Vol.2 table 2.2, DEDE",
+            "histories": [],
+            "unit": "63ff0014667726a8abd2c0e6",
+            "activities_log": [],
+            "createdAt": "2023-03-01T07:25:21.499Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "deletedAt": null,
+            "unitText": {
+                "_id": "63ff0014667726a8abd2c0e6",
+                "text": "MJ"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "63fefe4a77637e0a65da587b",
+            "ghgReport": {
+                "formula": {
+                    "CH4": "FossilCH4",
+                    "N2O": "N2O",
+                    "GHGCH4": "FossilCH4"
+                },
+                "CO2": 1.05747,
+                "CH4": 0,
+                "FossilCH4": 0.0000105,
+                "N2O": 0.000015705,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 1.0619
+            },
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "name": "Lignite (kg)",
+            "type": 3,
+            "reference": "IPCC Vol.2 table 2.2, DEDE",
+            "histories": [],
+            "unit": "63eefe644c6c12d11bac0534",
+            "activities_log": [],
+            "createdAt": "2023-03-01T07:27:06.599Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "deletedAt": null,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "63fefe4a77637e0a65da587c",
+            "ghgReport": {
+                "formula": {
+                    "CH4": "FossilCH4",
+                    "N2O": "N2O",
+                    "GHGCH4": "FossilCH4"
+                },
+                "CO2": 3.209698444,
+                "CH4": 0,
+                "FossilCH4": 0.000124,
+                "N2O": 0.0000248814,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 3.2200
+            },
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "name": "Fuel oil A (litre)",
+            "type": 3,
+            "reference": "IPCC Vol.2 table 2.2, PTT",
+            "histories": [],
+            "unit": "63ff001a667726a8abd2c0e7",
+            "activities_log": [],
+            "createdAt": "2023-03-01T07:27:06.599Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "deletedAt": null,
+            "unitText": {
+                "_id": "63ff001a667726a8abd2c0e7",
+                "text": "litre"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "63fefe4a77637e0a65da587d",
+            "ghgReport": {
+                "formula": {
+                    "CH4": "FossilCH4",
+                    "N2O": "N2O",
+                    "GHGCH4": "FossilCH4"
+                },
+                "CO2": 3.235340101,
+                "CH4": 0,
+                "FossilCH4": 0.000125,
+                "N2O": 0.0000250802,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 3.2457
+            },
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "name": "Fuel oil C (litre)",
+            "type": 3,
+            "reference": "IPCC Vol.2 table 2.2, PTT",
+            "histories": [],
+            "unit": "63ff001a667726a8abd2c0e7",
+            "activities_log": [],
+            "createdAt": "2023-03-01T07:27:06.599Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "deletedAt": null,
+            "unitText": {
+                "_id": "63ff001a667726a8abd2c0e7",
+                "text": "litre"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "63ff00e277637e0a65da588c",
+            "ghgReport": {
+                "formula": {
+                    "CH4": "FossilCH4",
+                    "N2O": "N2O",
+                    "GHGCH4": "FossilCH4"
+                },
+                "CO2": 2.698722,
+                "CH4": 0,
+                "FossilCH4": 0.000109,
+                "N2O": 0.000021852,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 2.7078
+            },
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+                
+            },
+            "name": "Gas/Diesel oil (litre)",
+            "type": 3,
+            "reference": "IPCC Vol.2 table 2.2, DEDE",
+            "histories": [],
+            "unit": "63ff001a667726a8abd2c0e7",
+            "activities_log": [],
+            "createdAt": "2023-03-01T07:38:10.853Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "deletedAt": null,
+            "unitText": {
+                "_id": "63ff001a667726a8abd2c0e7",
+                "text": "litre"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "63ff011477637e0a65da588f",
+            "ghgReport": {
+                "formula": {
+                    "CH4": "FossilCH4",
+                    "N2O": "N2O",
+                    "GHGCH4": "FossilCH4"
+                },
+                "CO2": 3.08662,
+                "CH4": 0,
+                "FossilCH4": 0.0000314,
+                "N2O": 0.0000471,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 3.1000
+            },
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "name": "Anthracite (kg)",
+            "type": 3,
+            "reference": "IPCC Vol.2 table 2.2, DEDE",
+            "histories": [],
+            "unit": "63eefe644c6c12d11bac0534",
+            "activities_log": [],
+            "createdAt": "2023-03-01T07:39:00.312Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "deletedAt": null,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "63ff018477637e0a65da58a1",
+            "ghgReport": {
+                "formula": {
+                    "CH4": "FossilCH4",
+                    "N2O": "N2O",
+                    "GHGCH4": "FossilCH4"
+                },
+                "CO2": 2.534157,
+                "CH4": 0,
+                "FossilCH4": 0.0000264,
+                "N2O": 0.000039555,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 2.5454
+            },
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "name": "Sub-bituminous coal (kg)",
+            "type": 3,
+            "reference": "IPCC Vol.2 table 2.2, DEDE",
+            "histories": [],
+            "unit": "63eefe644c6c12d11bac0534",
+            "activities_log": [],
+            "createdAt": "2023-03-01T07:40:52.837Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "deletedAt": null,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "63ff01ab77637e0a65da58b5",
+            "ghgReport": {
+                "formula": {
+                    "CH4": "FossilCH4",
+                    "N2O": "N2O",
+                    "GHGCH4": "FossilCH4"
+                },
+                "CO2": 2.468895,
+                "CH4": 0,
+                "FossilCH4": 0.000104,
+                "N2O": 0.000020718,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 2.4775
+            },
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "name": "Jet Kerosene (litre)",
+            "type": 3,
+            "reference": "IPCC Vol.2 table 2.2, DEDE",
+            "histories": [],
+            "unit": "63ff001a667726a8abd2c0e7",
+            "activities_log": [],
+            "createdAt": "2023-03-01T07:41:31.542Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "deletedAt": null,
+            "unitText": {
+                "_id": "63ff001a667726a8abd2c0e7",
+                "text": "litre"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "63ff020a77637e0a65da58bb",
+            "ghgReport": {
+                "formula": {
+                    "CH4": "FossilCH4",
+                    "N2O": "N2O",
+                    "GHGCH4": "FossilCH4"
+                },
+                "CO2": 1.679722,
+                "CH4": 0,
+                "FossilCH4": 0.0000266,
+                "N2O": 0.000002662,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 1.6812
+            },
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "name": "LPG (litre)",
+            "type": 3,
+            "reference": "IPCC Vol.2 table 2.2, DEDE",
+            "histories": [],
+            "unit": "63ff001a667726a8abd2c0e7",
+            "activities_log": [],
+            "createdAt": "2023-03-01T07:43:06.783Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "deletedAt": null,
+            "unitText": {
+                "_id": "63ff001a667726a8abd2c0e7",
+                "text": "litre"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "63ff020a77637e0a65da58bc",
+            "ghgReport": {
+                "formula": {
+                    "CH4": "FossilCH4",
+                    "N2O": "N2O",
+                    "GHGCH4": "FossilCH4"
+                },
+                "CO2": 3.110596296,
+                "CH4": 0,
+                "FossilCH4": 0.0000493,
+                "N2O": 0.00000492963,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 3.1134
+            },
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "name": "LPG (kg)",
+            "type": 3,
+            "reference": "IPCC Vol.2 table 2.2, DEDE LPG 1 litre = 0.54 kg",
+            "histories": [],
+            "unit": "63eefe644c6c12d11bac0534",
+            "activities_log": [],
+            "createdAt": "2023-03-01T07:43:06.783Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "deletedAt": null,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "63ff039977637e0a65da58dd",
+            "ghgReport": {
+                "formula": {
+                    "CH4": "FossilCH4",
+                    "N2O": "N2O",
+                    "GHGCH4": "FossilCH4"
+                },
+                "CO2": 2.181564,
+                "CH4": 0,
+                "FossilCH4": 0.0000944,
+                "N2O": 0.0000189,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 2.1894
+            },
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "name": "Motor gasoline (litre)",
+            "type": 3,
+            "reference": "IPCC Vol.2 table 2.2, DEDE",
+            "histories": [],
+            "unit": "63ff001a667726a8abd2c0e7",
+            "activities_log": [],
+            "createdAt": "2023-03-01T07:49:45.512Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "deletedAt": null,
+            "unitText": {
+                "_id": "63ff001a667726a8abd2c0e7",
+                "text": "litre"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "63ff03ce77637e0a65da58e0",
+            "ghgReport": {
+                "formula": {
+                    "CH4": "CH4",
+                    "N2O": "N2O",
+                    "GHGCH4": "CH4"
+                },
+                "CO2": 0,
+                "CH4": 0.0004797,
+                "FossilCH4": 0,
+                "N2O": 0.00006396,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 0.0304
+            },
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "name": "FUEL WOOD (kg)",
+            "type": 3,
+            "reference": "IPCC Vol.2 table 2.2, DEDE",
+            "histories": [],
+            "unit": "63eefe644c6c12d11bac0534",
+            "activities_log": [],
+            "createdAt": "2023-03-01T07:50:38.620Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "deletedAt": null,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "63ff03e177637e0a65da58e3",
+            "ghgReport": {
+                "formula": {
+                    "CH4": "CH4",
+                    "N2O": "N2O",
+                    "GHGCH4": "CH4"
+                },
+                "CO2": 0,
+                "CH4": 0.0002259,
+                "FossilCH4": 0,
+                "N2O": 0.00003012,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 0.0143
+            },
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "name": "Bagasse (kg)",
+            "type": 3,
+            "reference": "IPCC Vol.2 table 2.2, DEDE",
+            "histories": [],
+            "unit": "63eefe644c6c12d11bac0534",
+            "activities_log": [],
+            "createdAt": "2023-03-01T07:50:57.406Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "deletedAt": null,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "63ff040b77637e0a65da58e7",
+            "ghgReport": {
+                "formula": {
+                    "CH4": "CH4",
+                    "N2O": "N2O",
+                    "GHGCH4": "CH4"
+                },
+                "CO2": 0,
+                "CH4": 0.0005559,
+                "FossilCH4": 0,
+                "N2O": 0.00007412,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 0.0352
+            },
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "name": "Palm kernel shell  (kg)",
+            "type": 3,
+            "reference": "IPCC Vol.2 table 2.2, DEDE",
+            "histories": [],
+            "unit": "63eefe644c6c12d11bac0534",
+            "activities_log": [],
+            "createdAt": "2023-03-01T07:51:39.217Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "deletedAt": null,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "63ff042277637e0a65da58ea",
+            "ghgReport": {
+                "formula": {
+                    "CH4": "CH4",
+                    "N2O": "N2O",
+                    "GHGCH4": "CH4"
+                },
+                "CO2": 0,
+                "CH4": 0.0005034,
+                "FossilCH4": 0,
+                "N2O": 0.00006712,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 0.0319
+            },
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "name": "Cob (kg)",
+            "type": 3,
+            "reference": "IPCC Vol.2 table 2.2, DEDE",
+            "histories": [],
+            "unit": "63eefe644c6c12d11bac0534",
+            "activities_log": [],
+            "createdAt": "2023-03-01T07:52:02.326Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "deletedAt": null,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "63ff044177637e0a65da58ed",
+            "ghgReport": {
+                "formula": {
+                    "CH4": "CH4",
+                    "N2O": "N2O",
+                    "GHGCH4": "CH4"
+                },
+                "CO2": 0,
+                "CH4": 0.00002093,
+                "FossilCH4": 0,
+                "N2O": 0.000002093,
+                "SF6": 0,
+                "NF3": 0,
+                "total":0.0011
+            },
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "name": "Biogas (m3)",
+            "type": 3,
+            "reference": "IPCC Vol.2 table 2.2, DEDE",
+            "histories": [],
+            "unit": "63ff001e667726a8abd2c0e8",
+            "activities_log": [],
+            "createdAt": "2023-03-01T07:52:33.536Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "deletedAt": null,
+            "unitText": {
+                "_id": "63ff001e667726a8abd2c0e8",
+                "text": "m3"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "63ff04ac77637e0a65da58f0",
+            "ghgReport": {
+                "formula": {
+                    "CH4": "FossilCH4",
+                    "N2O": "N2O",
+                    "GHGCH4": "FossilCH4"
+                },
+                "CO2": 1.79088,
+                "CH4": 0,
+                "FossilCH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total":1.7909
+            },
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "name": "FUEL WOOD (CO2only) (kg)",
+            "type": 3,
+            "reference": "IPCC Vol.2 table 2.2, DEDE",
+            "histories": [],
+            "unit": "63eefe644c6c12d11bac0534",
+            "activities_log": [],
+            "createdAt": "2023-03-01T07:54:20.160Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "deletedAt": null,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "63ff04ac77637e0a65da58f1",
+            "ghgReport": {
+                "formula": {
+                    "CH4": "FossilCH4",
+                    "N2O": "N2O",
+                    "GHGCH4": "FossilCH4"
+                },
+                "CO2": 0.753,
+                "CH4": 0,
+                "FossilCH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total":0.7530
+            },
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "name": "Bagasse (CO2only) (kg)",
+            "type": 3,
+            "reference": "IPCC Vol.2 table 2.2, DEDE",
+            "histories": [],
+            "unit": "63eefe644c6c12d11bac0534",
+            "activities_log": [],
+            "createdAt": "2023-03-01T07:54:20.160Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "deletedAt": null,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "63ff04ac77637e0a65da58f2",
+            "ghgReport": {
+                "formula": {
+                    "CH4": "FossilCH4",
+                    "N2O": "N2O",
+                    "GHGCH4": "FossilCH4"
+                },
+                "CO2": 1.853,
+                "CH4": 0,
+                "FossilCH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total":1.8530
+            },
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "name": "Palm kernel shell (CO2only) (kg)",
+            "type": 3,
+            "reference": "IPCC Vol.2 table 2.2, DEDE",
+            "histories": [],
+            "unit": "63eefe644c6c12d11bac0534",
+            "activities_log": [],
+            "createdAt": "2023-03-01T07:54:20.160Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "deletedAt": null,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "63ff04ac77637e0a65da58f3",
+            "ghgReport": {
+                "formula": {
+                    "CH4": "FossilCH4",
+                    "N2O": "N2O",
+                    "GHGCH4": "CH4"
+                },
+                "CO2": 1.678,
+                "CH4": 0,
+                "FossilCH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total":1.6780
+            },
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "name": "Cob (CO2only) (kg)",
+            "type": 3,
+            "reference": "IPCC Vol.2 table 2.2, DEDE",
+            "histories": [],
+            "unit": "63eefe644c6c12d11bac0534",
+            "activities_log": [],
+            "createdAt": "2023-03-01T07:54:20.161Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "deletedAt": null,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "63ff04ac77637e0a65da58f4",
+            "ghgReport": {
+                "formula": {
+                    "CH4": "FossilCH4",
+                    "N2O": "N2O",
+                    "GHGCH4": "FossilCH4"
+                },
+                "CO2": 1.142778,
+                "CH4": 0,
+                "FossilCH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total":1.1428
+            },
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "name": "Biogas (CO2only) (m3)",
+            "type": 3,
+            "reference": "IPCC Vol.2 table 2.2, DEDE",
+            "histories": [],
+            "unit": "63ff001e667726a8abd2c0e8",
+            "activities_log": [],
+            "createdAt": "2023-03-01T07:54:20.161Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "deletedAt": null,
+            "unitText": {
+                "_id": "63ff001e667726a8abd2c0e8",
+                "text": "m3"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        }
+    ]
+}

@@ -1,0 +1,752 @@
+{
+    "Value": [
+        {
+            "_id": "64d0a3529c32d229e4cff646",
+            "no": 572,
+            "name": "การจัดเก็บรวบรวม และขนถ่ายขยะมูลฝอยชุมชน (kg)",
+            "detail": "การจัดเก็บและรวบรวมขยะมูลฝอย ครอบคลุมรูปแบบการจัดเก็บและรวบรวม 2 แบบ คือ 1.การเก็บขนจากบ้านเรือนจุดพักขยะ และถังขยะริมทางเท้าไปยังสถานีขนถ่ายขยะมูลฝอย และขนส่งไปยังแหล่งกำจัดขยะมูลฝอย และ 2.การเก็บขยะจากบ้านเรือนและและขนไปกำจัด ณ แหล่งกำจัดขยะมูลฝอยโดยตรง; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 0.0143
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database,\nTIIS-MTEC-NSTDA \n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_Mar2021",
+            "type": 16,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff647",
+            "no": 573,
+            "name": "การคัดแยกขยะมูลฝอยชุมชน (kg)",
+            "detail": "การคัดแยกขยะมูลฝอยครอบคลุมตั้งแต่การรับขยะมูลฝอยชุมชนและพักขยะในบริเวณคัดแยก การลำเลียงขยะบนสายพาน การแยกขยะมูลฝอยทั่วไป และการคัดแยกโลหะ; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 0.0159
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database,\nTIIS-MTEC-NSTDA \n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_Mar2021",
+            "type": 16,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff648",
+            "no": 574,
+            "name": "การกำจัดขยะมูลฝอยชุมชนแบบเทกอง (kg)",
+            "detail": "การกำจัดขยะแบบเทกองครอบคลุมกิจกรรมการดำเนินงาน ณ ลานเทกอง ได้แก่ การบด อัด หรือดันขยะในพื้นที่ลานเทกอง และการลดกลิ่นขยะที่เกิดขึ้น; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 1.0388
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database,\nTIIS-MTEC-NSTDA \n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_Mar2021",
+            "type": 16,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff649",
+            "no": 575,
+            "name": "การฝังกลบขยะมูลฝอยชุมชนแบบถูกหลักสุขาภิบาล (kg)",
+            "detail": "การฝังกลบขยะมูลฝอยชุมชนแบบถูกหลักสุขาภิบาลครอบคลุมกิจกรรมการดำเนินงาน ณ ลานฝังกลบขยะมูลฝอย  ได้แก่ การบด อัด หรือดันขยะในพื้นที่ฝังกลบ และการลดกลิ่นขยะที่เกิดขึ้น; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 0.7933
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database,\nTIIS-MTEC-NSTDA \n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_Mar2021",
+            "type": 16,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff64a",
+            "no": 576,
+            "name": "การฝังกลบขยะมูลฝอยชุมชนแบบติดตั้งระบบนำก๊าซมีเทนมาใช้ประโยชน์ (kg)",
+            "detail": "การฝังกลบซึ่งมีการติดตั้งระบบนำก๊าซชีวภาพที่ได้จากการย่อยสลายสารอินทรีย์ภายในหลุมฝังกลบและมีองค์ประกอบของก๊าซมีเทนเป็นหลักนำไปใช้ประโยชน์ในการผลิตกระแสไฟฟ้า; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 0.0175
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database,\nTIIS-MTEC-NSTDA \n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_Mar2021",
+            "type": 16,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff64b",
+            "no": 577,
+            "name": "การจัดการมูลฝอยสด (การหมักแบบไร้อากาศ) (kg)",
+            "detail": "การหมักแบบไร้อากาศเป็นการย่อยสลายสาร อินทรีย์แบบไม่ใช้ออกซิเจน โดยฐานข้อมูลชุดนี้เป็นการย่อยสลายแบบ wet  digestion process; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 0.1102
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database,\nTIIS-MTEC-NSTDA \n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_Mar2021",
+            "type": 16,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff64c",
+            "no": 578,
+            "name": "ปุ๋ยหมักอินทรีย์ จากการจัดการมูลฝอยสด (kg)",
+            "detail": "การทำปุ๋ยอินทรีย์ เป็นการหมักแบบใช้อากาศ โดยหมักด้วยสารเร่ง; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 0.3326
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database,\nTIIS-MTEC-NSTDA \n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_Mar2021",
+            "type": 16,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff64d",
+            "no": 579,
+            "name": "ปุ๋ยอินทรีย์น้ำ จากการจัดการมูลฝอยสด (kg)",
+            "detail": "การทำปุ๋ยอินทรีย์ เป็นการหมักแบบใช้อากาศ โดยหมักด้วยสารเร่ง; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 0.3338
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database,\nTIIS-MTEC-NSTDA \n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_Mar2021",
+            "type": 16,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff64e",
+            "no": 580,
+            "name": "การรวบรวมน้ำเสียชุมชนของประเทศ, ค่าเฉลี่ยประเทศไทย (m3)",
+            "detail": "การรวบรวมน้ำเสียอาศัยแรงโน้มถ่วงที่ไหลไปตามเส้นท่อ; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 0.0101
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database,\nTIIS-MTEC-NSTDA \n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_Dec2019",
+            "type": 16,
+            "unit": "63ff001e667726a8abd2c0e8",
+            "scope": 3,
+            "unitText": {
+                "_id": "63ff001e667726a8abd2c0e8",
+                "text": "m3"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff64f",
+            "no": 581,
+            "name": "การรวบรวมน้ำเสียชุมชนของเมืองขนาดใหญ่ (m3)",
+            "detail": "การรวบรวมน้ำเสียอาศัยแรงโน้มถ่วงที่ไหลไปตามเส้นท่อ จากเมืองที่มีประชากรมากกว่า 50,000 คนขึ้นไป; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 0.002
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database,\nTIIS-MTEC-NSTDA \n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_Dec2019",
+            "type": 16,
+            "unit": "63ff001e667726a8abd2c0e8",
+            "scope": 3,
+            "unitText": {
+                "_id": "63ff001e667726a8abd2c0e8",
+                "text": "m3"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff650",
+            "no": 582,
+            "name": "การรวบรวมน้ำเสียชุมชนของเมืองขนาดกลาง (m3)",
+            "detail": "การรวบรวมน้ำเสียอาศัยแรงโน้มถ่วงที่ไหลไปตามเส้นท่อ จากเมืองที่มีประชากร 10,000-50,000 คน; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 0.0373
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database,\nTIIS-MTEC-NSTDA \n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_Dec2019",
+            "type": 16,
+            "unit": "63ff001e667726a8abd2c0e8",
+            "scope": 3,
+            "unitText": {
+                "_id": "63ff001e667726a8abd2c0e8",
+                "text": "m3"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff651",
+            "no": 583,
+            "name": "การปรับปรุงคุณภาพน้ำเสียชุมชนของประเทศ (m3)",
+            "detail": "ค่าเฉลี่ยจากข้อมูลการปรับปรุงคุณภาพน้ำเสียชุมชนของเมืองขนาดใหญ่และเมืองขนาดกลาง; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 0.1201
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database,\nTIIS-MTEC-NSTDA \n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_Dec2019",
+            "type": 16,
+            "unit": "63ff001e667726a8abd2c0e8",
+            "scope": 3,
+            "unitText": {
+                "_id": "63ff001e667726a8abd2c0e8",
+                "text": "m3"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff652",
+            "no": 584,
+            "name": "การปรับปรุงคุณภาพน้ำเสียชุมชนของเมืองขนาดใหญ่ (m3)",
+            "detail": "การปรับปรุงคุณภาพน้ำเสียด้วยเทคโนโลยีระบบบำบัดแบบ AS/CASS/CSAS/VLR-AS/Two-stage AS/OD; ข้อมูลจากเมืองที่มีประชากรมากกว่า 50,000 คนขึ้นไป; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 0.129
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database,\nTIIS-MTEC-NSTDA \n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_Dec2019",
+            "type": 16,
+            "unit": "63ff001e667726a8abd2c0e8",
+            "scope": 3,
+            "unitText": {
+                "_id": "63ff001e667726a8abd2c0e8",
+                "text": "m3"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff653",
+            "no": 585,
+            "name": "การปรับปรุงคุณภาพน้ำเสียชุมชนของเมืองขนาดกลาง (m3)",
+            "detail": "การปรับปรุงคุณภาพน้ำเสียด้วยเทคโนโลยีระบบบำบัดแบบ AL/OD/SP; ข้อมูลจากเมืองที่มีประชากร 10,000-50,000 คน; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 0.0901
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database,\nTIIS-MTEC-NSTDA \n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_Dec2019",
+            "type": 16,
+            "unit": "63ff001e667726a8abd2c0e8",
+            "scope": 3,
+            "unitText": {
+                "_id": "63ff001e667726a8abd2c0e8",
+                "text": "m3"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff654",
+            "no": 586,
+            "name": "การรวบรวมและการปรับปรุงคุณภาพน้ำเสียชุมชนของประเทศ (m3)",
+            "detail": "ข้อมูลเฉลี่ยของการรวบรวมและการปรับปรุงคุณภาพน้ำเสียชุมชนของเมืองขนาดใหญ่ และการรวบรวมและการปรับปรุงคุณภาพน้ำเสียชุมชนของเมืองขนาดกลาง; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 0.1302
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database,\nTIIS-MTEC-NSTDA \n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_Dec2019",
+            "type": 16,
+            "unit": "63ff001e667726a8abd2c0e8",
+            "scope": 3,
+            "unitText": {
+                "_id": "63ff001e667726a8abd2c0e8",
+                "text": "m3"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff655",
+            "no": 587,
+            "name": "การรวบรวมและการปรับปรุงคุณภาพน้ำเสียชุมชนของเมืองขนาดใหญ่ (m3)",
+            "detail": "การรวบรวมน้ำเสียอาศัยแรงโน้มถ่วงที่ไหลไปตามเส้นท่อ จากเมืองที่มีประชากรมากกว่า 50,000 คนขึ้นไป; เทคโนโลยีระบบบำบัดแบบAS/CASS/CSAS/VLR-AS/Two-stage AS/OD; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 0.131
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database,\nTIIS-MTEC-NSTDA \n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_Dec2019",
+            "type": 16,
+            "unit": "63ff001e667726a8abd2c0e8",
+            "scope": 3,
+            "unitText": {
+                "_id": "63ff001e667726a8abd2c0e8",
+                "text": "m3"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff656",
+            "no": 588,
+            "name": "การรวบรวมและการปรับปรุงคุณภาพน้ำเสียชุมชนของเมืองขนาดกลาง (m3)",
+            "detail": "การรวบรวมน้ำเสียอาศัยแรงโน้มถ่วงที่ไหลไปตามเส้นท่อ จากเมืองที่มีประชากรมากกว่า 50,000 คนขึ้นไป; เทคโนโลยีระบบบำบัดแบบ AL/OD/SP; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 0.1274
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database,\nTIIS-MTEC-NSTDA \n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_Dec2019",
+            "type": 16,
+            "unit": "63ff001e667726a8abd2c0e8",
+            "scope": 3,
+            "unitText": {
+                "_id": "63ff001e667726a8abd2c0e8",
+                "text": "m3"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        }
+    ]
+}

@@ -1,0 +1,268 @@
+{
+    "Value": [
+        {
+            "_id": "64d0a3529c32d229e4cff446",
+            "no": 60,
+            "name": "น้ำประปา-การประปานครหลวง (m3)",
+            "detail": "ผลิตโดยใช้น้ำผิวดิน; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 0.7948
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database, \nTIIS-MTEC-NSTDA\n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_Dec2019",
+            "type": 5,
+            "unit": "63ff001e667726a8abd2c0e8",
+            "scope": 3,
+            "unitText": {
+                "_id": "63ff001e667726a8abd2c0e8",
+                "text": "m3"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff447",
+            "no": 61,
+            "name": "น้ำประปา-การประปาส่วนภูมิภาค (m3)",
+            "detail": "ผลิตโดยใช้น้ำผิวดิน น้ำใต้ดิน และน้ำทะเล; ครอบคลุมตั้งแต่ขั้นตอนการสูบน้ำดิบ การผลิตน้ำประปา จนถึงการส่งน้ำประปาผ่านระบบท่อ กปภ. สู่ผู้ใช้น้ำ; ข้อมูลการผลิตปีงบประมาณ 2561; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 0.541
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database, \nTIIS-MTEC-NSTDA\n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_July2022",
+            "type": 5,
+            "unit": "63ff001e667726a8abd2c0e8",
+            "scope": 3,
+            "unitText": {
+                "_id": "63ff001e667726a8abd2c0e8",
+                "text": "m3"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff448",
+            "no": 62,
+            "name": "น้ำประปา-การนิคมอุตสาหกรรม (m3)",
+            "detail": "ผลิตโดยใช้น้ำผิวดิน และน้ำประปา; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 0.2575
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database, \nTIIS-MTEC-NSTDA\n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_Dec2019",
+            "type": 5,
+            "unit": "63ff001e667726a8abd2c0e8",
+            "scope": 3,
+            "unitText": {
+                "_id": "63ff001e667726a8abd2c0e8",
+                "text": "m3"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff449",
+            "no": 63,
+            "name": "น้ำอ่อนสำหรับหม้อไอน้ำ (m3)",
+            "detail": "ผลิตโดยใช้น้ำประปา; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 1.0301
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database, \nTIIS-MTEC-NSTDA\n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_July2022",
+            "type": 5,
+            "unit": "63ff001e667726a8abd2c0e8",
+            "scope": 3,
+            "unitText": {
+                "_id": "63ff001e667726a8abd2c0e8",
+                "text": "m3"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff44a",
+            "no": 64,
+            "name": "น้ำปราศจากไอออน ที่ผลิตโดยเทคโนโลยี Reverse Osmosis (m3)",
+            "detail": "ผลิตโดยใช้น้ำอ่อน; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 2.1555
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database, \nTIIS-MTEC-NSTDA\n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_July2022",
+            "type": 5,
+            "unit": "63ff001e667726a8abd2c0e8",
+            "scope": 3,
+            "unitText": {
+                "_id": "63ff001e667726a8abd2c0e8",
+                "text": "m3"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff44b",
+            "no": 65,
+            "name": "น้ำปราศจากไอออน ที่ผลิตโดยเทคโนโลยี Ion Exchange (m3)",
+            "detail": "ผลิตโดยใช้น้ำประปา; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 2.0432
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database, \nTIIS-MTEC-NSTDA\n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_Dec2019",
+            "type": 5,
+            "unit": "63ff001e667726a8abd2c0e8",
+            "scope": 3,
+            "unitText": {
+                "_id": "63ff001e667726a8abd2c0e8",
+                "text": "m3"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        }
+    ]
+}

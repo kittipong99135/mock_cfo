@@ -1,0 +1,484 @@
+{
+    "Value": [
+        {
+            "_id": "63ff06b677637e0a65da5938",
+            "ghgReport": {
+                "formula": {
+                    "CH4": "FossilCH4",
+                    "N2O": "N2O",
+                    "GHGCH4": "FossilCH4"
+                },
+                "CO2": 2.698722,
+                "CH4": 0,
+                "FossilCH4": 0.000151143,
+                "N2O": 0.001041612,
+                "SF6": 0,
+                "NF3": 0,
+                "total":2.9793
+            },
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "name": "Diesel - Agriculture (litre)",
+            "type": 3,
+            "reference": "IPCC Vol.2 table 3.3.1, DEDE",
+            "histories": [],
+            "unit": "63ff001a667726a8abd2c0e7",
+            "activities_log": [],
+            "createdAt": "2023-03-01T08:03:02.964Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "deletedAt": null,
+            "unitText": {
+                "_id": "63ff001a667726a8abd2c0e7",
+                "text": "litre"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "63ff06b677637e0a65da5939",
+            "ghgReport": {
+                "formula": {
+                    "CH4": "FossilCH4",
+                    "N2O": "N2O",
+                    "GHGCH4": "FossilCH4"
+                },
+                "CO2": 2.698722,
+                "CH4": 0,
+                "FossilCH4": 0.000151143,
+                "N2O": 0.001041612,
+                "SF6": 0,
+                "NF3": 0,
+                "total":2.9793
+            },
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "name": "Diesel - Forestry  (litre)",
+            "type": 3,
+            "reference": "IPCC Vol.2 table 3.3.1, DEDE",
+            "histories": [],
+            "unit": "63ff001a667726a8abd2c0e7",
+            "activities_log": [],
+            "createdAt": "2023-03-01T08:03:02.964Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "deletedAt": null,
+            "unitText": {
+                "_id": "63ff001a667726a8abd2c0e7",
+                "text": "litre"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "63ff06b677637e0a65da593a",
+            "ghgReport": {
+                "formula": {
+                    "CH4": "FossilCH4",
+                    "N2O": "N2O",
+                    "GHGCH4": "FossilCH4"
+                },
+                "CO2": 2.698722,
+                "CH4": 0,
+                "FossilCH4": 0.000151143,
+                "N2O": 0.001041612,
+                "SF6": 0,
+                "NF3": 0,
+                "total":2.9793
+            },
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "name": "Diesel - Industry  (litre)",
+            "type": 3,
+            "reference": "IPCC Vol.2 table 3.3.1, DEDE",
+            "histories": [],
+            "unit": "63ff001a667726a8abd2c0e7",
+            "activities_log": [],
+            "createdAt": "2023-03-01T08:03:02.964Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "deletedAt": null,
+            "unitText": {
+                "_id": "63ff001a667726a8abd2c0e7",
+                "text": "litre"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "63ff06b677637e0a65da593b",
+            "ghgReport": {
+                "formula": {
+                    "CH4": "FossilCH4",
+                    "N2O": "N2O",
+                    "GHGCH4": "FossilCH4"
+                },
+                "CO2": 2.698722,
+                "CH4": 0,
+                "FossilCH4": 0.000151143,
+                "N2O": 0.001041612,
+                "SF6": 0,
+                "NF3": 0,
+                "total":2.9793
+            },
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "name": "Diesel - Household (litre)",
+            "type": 3,
+            "reference": "IPCC Vol.2 table 3.3.1, DEDE",
+            "histories": [],
+            "unit": "63ff001a667726a8abd2c0e7",
+            "activities_log": [],
+            "createdAt": "2023-03-01T08:03:02.964Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "deletedAt": null,
+            "unitText": {
+                "_id": "63ff001a667726a8abd2c0e7",
+                "text": "litre"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "63ff072177637e0a65da5964",
+            "ghgReport": {
+                "formula": {
+                    "CH4": "FossilCH4",
+                    "N2O": "N2O",
+                    "GHGCH4": "FossilCH4"
+                },
+                "CO2": 2.18,
+                "CH4": 0,
+                "FossilCH4": 0.00252,
+                "N2O": 0.000063,
+                "SF6": 0,
+                "NF3": 0,
+                "total":2.2723
+            },
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "name": "Motor Gasoline - 4 stroke - Agriculture (litre)",
+            "type": 3,
+            "reference": "IPCC Vol.2 table 3.3.1, DEDE",
+            "histories": [],
+            "unit": "63ff001a667726a8abd2c0e7",
+            "activities_log": [],
+            "createdAt": "2023-03-01T08:04:49.325Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "deletedAt": null,
+            "unitText": {
+                "_id": "63ff001a667726a8abd2c0e7",
+                "text": "litre"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "63ff072177637e0a65da5965",
+            "ghgReport": {
+                "formula": {
+                    "CH4": "FossilCH4",
+                    "N2O": "N2O",
+                    "GHGCH4": "FossilCH4"
+                },
+                "CO2": 2.18,
+                "CH4": 0,
+                "FossilCH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total":2.1800
+            },
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "name": "Motor Gasoline - 4 stroke - Forestry  (litre)",
+            "type": 3,
+            "reference": "IPCC Vol.2 table 3.3.1, DEDE",
+            "histories": [],
+            "unit": "63ff001a667726a8abd2c0e7",
+            "activities_log": [],
+            "createdAt": "2023-03-01T08:04:49.325Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "deletedAt": null,
+            "unitText": {
+                "_id": "63ff001a667726a8abd2c0e7",
+                "text": "litre"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "63ff072177637e0a65da5966",
+            "ghgReport": {
+                "formula": {
+                    "CH4": "FossilCH4",
+                    "N2O": "N2O",
+                    "GHGCH4": "FossilCH4"
+                },
+                "CO2": 2.18,
+                "CH4": 0,
+                "FossilCH4": 0.00157,
+                "N2O": 0.000063,
+                "SF6": 0,
+                "NF3": 0,
+                "total":2.2438
+            },
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "name": "Motor Gasoline - 4 stroke - Industry  (litre)",
+            "type": 3,
+            "reference": "IPCC Vol.2 table 3.3.1, DEDE",
+            "histories": [],
+            "unit": "63ff001a667726a8abd2c0e7",
+            "activities_log": [],
+            "createdAt": "2023-03-01T08:04:49.325Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "deletedAt": null,
+            "unitText": {
+                "_id": "63ff001a667726a8abd2c0e7",
+                "text": "litre"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "63ff072177637e0a65da5967",
+            "ghgReport": {
+                "formula": {
+                    "CH4": "FossilCH4",
+                    "N2O": "N2O",
+                    "GHGCH4": "FossilCH4"
+                },
+                "CO2": 2.18,
+                "CH4": 0,
+                "FossilCH4": 0.00378,
+                "N2O": 0.000063,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 2.3101
+            },
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "name": "Motor Gasoline - 4 stroke - Household (litre)",
+            "type": 3,
+            "reference": "IPCC Vol.2 table 3.3.1, DEDE",
+            "histories": [],
+            "unit": "63ff001a667726a8abd2c0e7",
+            "activities_log": [],
+            "createdAt": "2023-03-01T08:04:49.325Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "deletedAt": null,
+            "unitText": {
+                "_id": "63ff001a667726a8abd2c0e7",
+                "text": "litre"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "63ff07ca77637e0a65da5984",
+            "ghgReport": {
+                "formula": {
+                    "CH4": "FossilCH4",
+                    "N2O": "N2O",
+                    "GHGCH4": "FossilCH4"
+                },
+                "CO2": 2.18,
+                "CH4": 0,
+                "FossilCH4": 0.00441,
+                "N2O": 0.0000126,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 2.3156
+            },
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "name": "Motor Gasoline - 2 stroke - Agriculture (litre)",
+            "type": 3,
+            "reference": "IPCC Vol.2 table 3.3.1, DEDE",
+            "histories": [],
+            "unit": "63ff001a667726a8abd2c0e7",
+            "activities_log": [],
+            "createdAt": "2023-03-01T08:07:38.387Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "deletedAt": null,
+            "unitText": {
+                "_id": "63ff001a667726a8abd2c0e7",
+                "text": "litre"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "63ff07ca77637e0a65da5985",
+            "ghgReport": {
+                "formula": {
+                    "CH4": "FossilCH4",
+                    "N2O": "N2O",
+                    "GHGCH4": "FossilCH4"
+                },
+                "CO2": 2.18,
+                "CH4": 0,
+                "FossilCH4": 0.00535,
+                "N2O": 0.0000126,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 2.3438
+            },
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "name": "Motor Gasoline - 2 stroke - Forestry  (litre)",
+            "type": 3,
+            "reference": "IPCC Vol.2 table 3.3.1, DEDE",
+            "histories": [],
+            "unit": "63ff001a667726a8abd2c0e7",
+            "activities_log": [],
+            "createdAt": "2023-03-01T08:07:38.387Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "deletedAt": null,
+            "unitText": {
+                "_id": "63ff001a667726a8abd2c0e7",
+                "text": "litre"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "63ff07ca77637e0a65da5986",
+            "ghgReport": {
+                "formula": {
+                    "CH4": "FossilCH4",
+                    "N2O": "N2O",
+                    "GHGCH4": "FossilCH4"
+                },
+                "CO2": 2.18,
+                "CH4": 0,
+                "FossilCH4": 0.00409,
+                "N2O": 0.0000126,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 2.3060
+            },
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "name": "Motor Gasoline - 2 stroke - Industry  (litre)",
+            "type": 3,
+            "reference": "IPCC Vol.2 table 3.3.1, DEDE",
+            "histories": [],
+            "unit": "63ff001a667726a8abd2c0e7",
+            "activities_log": [],
+            "createdAt": "2023-03-01T08:07:38.387Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "deletedAt": null,
+            "unitText": {
+                "_id": "63ff001a667726a8abd2c0e7",
+                "text": "litre"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "63ff07ca77637e0a65da5987",
+            "ghgReport": {
+                "formula": {
+                    "CH4": "FossilCH4",
+                    "N2O": "N2O",
+                    "GHGCH4": "FossilCH4"
+                },
+                "CO2": 2.18,
+                "CH4": 0,
+                "FossilCH4": 0.00567,
+                "N2O": 0.0000126,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 2.3534
+            },
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "name": "Motor Gasoline - 2 stroke - Household (litre)",
+            "type": 3,
+            "reference": "IPCC Vol.2 table 3.3.1, DEDE",
+            "histories": [],
+            "unit": "63ff001a667726a8abd2c0e7",
+            "activities_log": [],
+            "createdAt": "2023-03-01T08:07:38.387Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "deletedAt": null,
+            "unitText": {
+                "_id": "63ff001a667726a8abd2c0e7",
+                "text": "litre"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        }
+    ]
+}

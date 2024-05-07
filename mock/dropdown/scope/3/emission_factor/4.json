@@ -1,0 +1,46 @@
+{
+    "Value": [
+        {
+            "_id": "64a3c63304104106a95cb166",
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": "FossilCH4",
+                    "N2O": "N2O"
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 0.5986
+            },
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "name": "Electricity, grid mix (ไฟฟ้า) (kWh)",
+            "detail": "ไฟฟ้าแบบ grid mix ปี 2016-2018; LCIA method IPCC 2013 GWP 100a V1.03",
+            "unit": "63ff0850667726a8abd2c0e9",
+            "scope": 3,
+            "type": 4,
+            "reference": "Thai National LCI Database, TIIS-MTEC-NSTDA(with TGO electricity 2016-2018)",
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T07:11:47.555Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "unitText": {
+                "_id": "63ff0850667726a8abd2c0e9",
+                "text": "kWh"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        }
+    ]
+}

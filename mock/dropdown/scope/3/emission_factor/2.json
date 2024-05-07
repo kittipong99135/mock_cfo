@@ -1,0 +1,356 @@
+{
+    "Value": [
+        {
+            "_id": "64d0a3529c32d229e4cff433",
+            "no": 41,
+            "name": "Carbon dioxide (ก๊าซคาร์บอนไดออกไซด์) (kg)",
+            "detail": "ก๊าซคาร์บอนไดออกไซด์ที่ได้จากการกระบวนการแยกก๊าซธรรมชาติ; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 1.0506
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database, \nTIIS-MTEC-NSTDA\n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_Dec2019",
+            "type": 3,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff434",
+            "no": 42,
+            "name": "Propane (โพรเพน) (kg)",
+            "detail": "โพรเพนที่ได้จากการกระบวนการแยกก๊าซธรรมชาติ; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 1.1692
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database, \nTIIS-MTEC-NSTDA\n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_Dec2019",
+            "type": 3,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff435",
+            "no": 43,
+            "name": "Methane (ก๊าซธรรมชาติ / มีเทน) (kg)",
+            "detail": "ก๊าซธรรมชาติ (มีเทน) ที่ได้จากการกระบวนการแยกก๊าซธรรมชาติ; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 1.1283
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database, \nTIIS-MTEC-NSTDA\n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_Dec2019",
+            "type": 3,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff436",
+            "no": 44,
+            "name": "Ethane (อีเทน) (kg)",
+            "detail": "อีเทนที่ได้จากการกระบวนการแยกก๊าซธรรมชาติ; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 1.1608
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database, \nTIIS-MTEC-NSTDA\n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_Dec2019",
+            "type": 3,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff437",
+            "no": 45,
+            "name": "Natural Gas Liquid (ก๊าซธรรมชาติเหลว) (kg)",
+            "detail": "ก๊าซธรรมชาติเหลวที่ได้จากการกระบวนการแยกก๊าซธรรมชาติ; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 1.156
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database, \nTIIS-MTEC-NSTDA\n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_Dec2019",
+            "type": 3,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff438",
+            "no": 46,
+            "name": "ก๊าซหุงต้ม (kg)",
+            "detail": "ก๊าซหุงต้มที่ได้จากกระบวนการแยกก๊าซธรรมชาติ; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 1.1839
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database, \nTIIS-MTEC-NSTDA\n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_Dec2019",
+            "type": 3,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff439",
+            "no": 47,
+            "name": "ก๊าซธรรมชาติแบบผสม (kg)",
+            "detail": "ก๊าซธรรมชาติผสมที่มาจากก๊าซธรรมชาติของประเทศไทย (รวมก๊าซธรรมชาติที่มาจากโรงแยกก๊าซ) ก๊าซธรรมชาติที่นำเข้ามาจากประเทศพม่า และ LNG จากการนำเข้า; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 0.7544
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database, \nTIIS-MTEC-NSTDA\n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_Dec2019",
+            "type": 3,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff43a",
+            "no": 48,
+            "name": "ก๊าซธรรมชาติแบบผสม (m3)",
+            "detail": "ก๊าซธรรมชาติผสมที่มาจากก๊าซธรรมชาติของประเทศไทย (รวมก๊าซธรรมชาติที่มาจากโรงแยกก๊าซ) ก๊าซธรรมชาติที่นำเข้ามาจากประเทศพม่า และ LNG จากการนำเข้า; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 0.5767
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database, \nTIIS-MTEC-NSTDA\n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_Dec2019",
+            "type": 3,
+            "unit": "63ff001e667726a8abd2c0e8",
+            "scope": 3,
+            "unitText": {
+                "_id": "63ff001e667726a8abd2c0e8",
+                "text": "m3"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        }
+    ]
+}

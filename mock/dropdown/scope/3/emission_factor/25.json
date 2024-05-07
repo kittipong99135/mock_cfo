@@ -1,0 +1,312 @@
+{
+    "Value": [
+        {
+            "_id": "64d0a3529c32d229e4cff6e7",
+            "no": 733,
+            "name": "ขวดแก้วใส (kg)",
+            "detail": "ผลิตจากทรายแก้วและเศษแก้วนำมาหลอมในเตาหลอมได้น้ำแก้ว และนำไปผ่านกระบวนการขึ้นรูปให้ได้ขวดแก้วรูปทรงต่าง ๆ ตามต้องการ; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 0.8075
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database,\nTIIS-MTEC-NSTDA",
+            "updatedDate": "Update_Dec2019",
+            "type": 25,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff6e8",
+            "no": 734,
+            "name": "ขวดแก้วสีชา (kg)",
+            "detail": "ผลิตจากทรายแก้วและเศษแก้วนำมาหลอมในเตาหลอมได้น้ำแก้ว (ใส่ส่วนผสมที่ทำให้เกิดสี) และนำไปผ่านกระบวนการขึ้นรูปให้ได้ขวดแก้วรูปทรงต่าง ๆ ตามต้องการ; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 0.8305
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database,\nTIIS-MTEC-NSTDA",
+            "updatedDate": "Update_Dec2019",
+            "type": 25,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff6e9",
+            "no": 735,
+            "name": "ฉนวนใยแก้ว (kg)",
+            "detail": "ผลิตจากเศษแก้วเศษขวด (80%) และสารเคมีต่าง ๆ นำมาหลอมรวมกันเป็นน้ำแก้ว ปั่นออกมาเป็นเส้นใยพ่นกาวให้เส้นใยยึดเกาะกัน จากนั้นนำมาอัดเป็นแผ่นฉนวน ผ่านการตัดขอบและแยกบรรจุ; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 2.5612
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database,\nTIIS-MTEC-NSTDA",
+            "updatedDate": "Update_Dec2019",
+            "type": 25,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff6ea",
+            "no": 736,
+            "name": "กระจกแผ่นเรียบ (kg)",
+            "detail": "ผลิตจากการหลอมทรายแก้ว และส่วนผสมอื่น แล้วขึ้นรูปเป็นแผ่น โดยให้น้ำแก้วลอยตัวบนดีบุกหลอม ผลิตเป็นกระจกที่มีขนาดตามต้องการ; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 1.271
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database,\nTIIS-MTEC-NSTDA",
+            "updatedDate": "Update_Dec2019",
+            "type": 25,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff6eb",
+            "no": 737,
+            "name": "กระจกนิรภัยชั้นเดียว (kg)",
+            "detail": "ผลิตจากกระจกแผ่นเรียบ (Flat Glass) มาทำการปรับปรุงคุณสมบัติเพื่อเพิ่มความแข็งแรง ทนทาน ไม่แตกหักง่าย ทนต่ออุณหภูมิสูง-ต่ำ และแรงกระแทก; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 3.1359
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database,\nTIIS-MTEC-NSTDA",
+            "updatedDate": "Update_Dec2019",
+            "type": 25,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff6ec",
+            "no": 738,
+            "name": "กระจกนิรภัยหลายชั้น (kg)",
+            "detail": "ผลิตโดยการนำกระจกตั้งแต่ 2 แผ่นขึ้นไป มาผนึกเข้าด้วยกัน โดยมีแผ่นฟิล์มโพลีไวนิลนิวทิเรต ที่เหนียวและแข็งแรงซ้อนอยู่ระหว่างกลาง ทำหน้าที่ยึดกระจกให้ติดกัน; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 2.4449
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database,\nTIIS-MTEC-NSTDA",
+            "updatedDate": "Update_Dec2019",
+            "type": 25,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff6ed",
+            "no": 739,
+            "name": "กระจกฉนวนความร้อน (kg)",
+            "detail": "ผลิตโดยการนำกระจกตั้งแต่ 2 แผ่น ตัดให้ได้ขนาดมาประกบกันโดยมีระยะห่างพอสมควร โดยมีอลูมิเนียมซึ่งบรรจุสารดูดซึมความชื้นคั่นกลาง หลังจากนั้นจะปิดรอยที่ขอบกระจก; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 1.7043
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database,\nTIIS-MTEC-NSTDA",
+            "updatedDate": "Update_Dec2019",
+            "type": 25,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        }
+    ]
+}

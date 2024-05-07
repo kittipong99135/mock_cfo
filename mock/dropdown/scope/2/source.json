@@ -1,0 +1,16 @@
+{
+    "Value": [
+        {
+            "_id": 1,
+            "scope": 2,
+            "emissionFactorType": 1,
+            "emissionFactorTypeName": "Electricity, grid mix"
+        },
+        {
+            "_id": 2,
+            "scope": 2,
+            "emissionFactorType": 2,
+            "emissionFactorTypeName": "Custom Scope2"
+        }
+    ]
+}

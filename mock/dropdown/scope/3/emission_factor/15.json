@@ -1,0 +1,1368 @@
+{
+    "Value": [
+        {
+            "_id": "64d0a3529c32d229e4cff627",
+            "no": 541,
+            "name": "การใช้รถแทรกเตอร์สี่ล้อขนาด 15 แรงม้า (hr)",
+            "detail": "สำหรับพื้นที่ราบ ในการปลูกข้าว ข้าวโพด มันสำปะหลัง และอ้อย; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 10.0062
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database,\nTIIS-MTEC-NSTDA \n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_Dec2019",
+            "type": 15,
+            "unit": "64a3d6c8233b2fc8bea86b14",
+            "scope": 3,
+            "unitText": {
+                "_id": "64a3d6c8233b2fc8bea86b14",
+                "text": "hr"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff628",
+            "no": 542,
+            "name": "การใช้รถแทรกเตอร์สี่ล้อขนาด 35 แรงม้า (hr)",
+            "detail": "สำหรับพื้นที่ราบ ในการปลูกข้าว ข้าวโพด มันสำปะหลัง และอ้อย; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 22.3072
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database,\nTIIS-MTEC-NSTDA \n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_Dec2019",
+            "type": 15,
+            "unit": "64a3d6c8233b2fc8bea86b14",
+            "scope": 3,
+            "unitText": {
+                "_id": "64a3d6c8233b2fc8bea86b14",
+                "text": "hr"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff629",
+            "no": 543,
+            "name": "การใช้รถแทรกเตอร์สี่ล้อขนาด 45 แรงม้า (hr)",
+            "detail": "สำหรับพื้นที่ราบ ในการปลูกข้าว ข้าวโพด มันสำปะหลัง และอ้อย; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 28.5639
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database,\nTIIS-MTEC-NSTDA \n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_Dec2019",
+            "type": 15,
+            "unit": "64a3d6c8233b2fc8bea86b14",
+            "scope": 3,
+            "unitText": {
+                "_id": "64a3d6c8233b2fc8bea86b14",
+                "text": "hr"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff62a",
+            "no": 544,
+            "name": "การใช้รถแทรกเตอร์สี่ล้อขนาด 70 แรงม้า (hr)",
+            "detail": "สำหรับพื้นที่ราบ ในการปลูกข้าว ข้าวโพด มันสำปะหลัง และอ้อย; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 44.3889
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database,\nTIIS-MTEC-NSTDA \n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_Dec2019",
+            "type": 15,
+            "unit": "64a3d6c8233b2fc8bea86b14",
+            "scope": 3,
+            "unitText": {
+                "_id": "64a3d6c8233b2fc8bea86b14",
+                "text": "hr"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff62b",
+            "no": 545,
+            "name": "การใช้รถแทรกเตอร์สี่ล้อขนาด 80 แรงม้า (hr)",
+            "detail": "สำหรับพื้นที่ราบ ในการปลูกข้าว ข้าวโพด มันสำปะหลัง และอ้อย; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 50.8371
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database,\nTIIS-MTEC-NSTDA \n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_Dec2019",
+            "type": 15,
+            "unit": "64a3d6c8233b2fc8bea86b14",
+            "scope": 3,
+            "unitText": {
+                "_id": "64a3d6c8233b2fc8bea86b14",
+                "text": "hr"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff62c",
+            "no": 546,
+            "name": "การใช้รถแทรกเตอร์สี่ล้อขนาด 90 แรงม้า (hr)",
+            "detail": "สำหรับพื้นที่ราบ ในการปลูกข้าว ข้าวโพด มันสำปะหลัง และอ้อย; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 56.9422
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database,\nTIIS-MTEC-NSTDA \n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_Dec2019",
+            "type": 15,
+            "unit": "64a3d6c8233b2fc8bea86b14",
+            "scope": 3,
+            "unitText": {
+                "_id": "64a3d6c8233b2fc8bea86b14",
+                "text": "hr"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff62d",
+            "no": 547,
+            "name": "การใช้รถแทรกเตอร์สองล้อ (รถไถเดินตาม) (< 18 แรงม้า) ขับเคลื่อนด้วยน้ำมันดีเซล (hr)",
+            "detail": "คลอบคุลมการผลิตรถแทรกเตอร์และการนำไปใช้งานในการเกษตร; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 5.9162
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database,\nTIIS-MTEC-NSTDA \n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_Dec2019",
+            "type": 15,
+            "unit": "64a3d6c8233b2fc8bea86b14",
+            "scope": 3,
+            "unitText": {
+                "_id": "64a3d6c8233b2fc8bea86b14",
+                "text": "hr"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff62e",
+            "no": 548,
+            "name": "การใช้รถแทรกเตอร์สองล้อ (รถไถเดินตาม) (< 18 แรงม้า) ขับเคลื่อนด้วยน้ำมันเบนซิน (hr)",
+            "detail": "คลอบคุลมการผลิตรถแทรกเตอร์และการนำไปใช้งานในการเกษตร; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 7.563
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database,\nTIIS-MTEC-NSTDA \n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_Dec2019",
+            "type": 15,
+            "unit": "64a3d6c8233b2fc8bea86b14",
+            "scope": 3,
+            "unitText": {
+                "_id": "64a3d6c8233b2fc8bea86b14",
+                "text": "hr"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff62f",
+            "no": 549,
+            "name": "การใช้เครื่องเติมอากาศขนาด 2-3 แรงม้า (hp-hr)",
+            "detail": "มีความเร็วรอบระหว่าง 80-120  rpm และใช้ไฟฟ้าเป็นแหล่งพลังงานในช่วงการใช้งาน; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 1.2757
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database,\nTIIS-MTEC-NSTDA \n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_Dec2019",
+            "type": 15,
+            "unit": "64a3d6c8233b2fc8bea86b15",
+            "scope": 3,
+            "unitText": {
+                "_id": "64a3d6c8233b2fc8bea86b15",
+                "text": "hp-hr"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff630",
+            "no": 550,
+            "name": "การใช้ไถหัวหมูโดยแทรกเตอร์ขนาด 90 แรงม้า (คิดรวมการใช้รถแทรกเตอร์แล้ว) (m2)",
+            "detail": "คลอบคลุมการผลิตรถแทรกเตอร์ การผลิตจาน และการนำไปใช้ในการเกษตรของประเทศไทย; เหมาะสำหรับดินประเภท ดินร่วน หรือ ดินเหนียวปนทราย; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 0.0072
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database,\nTIIS-MTEC-NSTDA \n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_Dec2019",
+            "type": 15,
+            "unit": "64a3d6c8233b2fc8bea86b16",
+            "scope": 3,
+            "unitText": {
+                "_id": "64a3d6c8233b2fc8bea86b16",
+                "text": "m2"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff631",
+            "no": 551,
+            "name": "การไถด้วยจานโดยแทรกเตอร์ขนาด 90 แรงม้า (คิดรวมการใช้รถแทรกเตอร์แล้ว) (m2)",
+            "detail": "คลอบคลุมการผลิตรถแทรกเตอร์ การผลิตจาน และการนำไปใช้ในการเกษตร; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 0.0047
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database,\nTIIS-MTEC-NSTDA \n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_Dec2019",
+            "type": 15,
+            "unit": "64a3d6c8233b2fc8bea86b16",
+            "scope": 3,
+            "unitText": {
+                "_id": "64a3d6c8233b2fc8bea86b16",
+                "text": "m2"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff632",
+            "no": 552,
+            "name": "การไถดินดานโดยแทรกเตอร์ขนาด 90 แรงม้า (คิดรวมการใช้รถแทรกเตอร์แล้ว) (m2)",
+            "detail": "คลอบคลุมการผลิตรถแทรกเตอร์ การผลิตจาน และการนำไปใช้ในการเกษตร; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 0.0062
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database,\nTIIS-MTEC-NSTDA \n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_Dec2019",
+            "type": 15,
+            "unit": "64a3d6c8233b2fc8bea86b16",
+            "scope": 3,
+            "unitText": {
+                "_id": "64a3d6c8233b2fc8bea86b16",
+                "text": "m2"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff633",
+            "no": 553,
+            "name": "การไถยกร่องโดยแทรกเตอร์ ขนาด 90 แรงม้า (คิดรวมการใช้รถแทรกเตอร์แล้ว) (m2)",
+            "detail": "คลอบคลุมการผลิตรถแทรกเตอร์ การผลิตจาน และการนำไปใช้ในการเกษตร; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 0.0043
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database,\nTIIS-MTEC-NSTDA \n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_Dec2019",
+            "type": 15,
+            "unit": "64a3d6c8233b2fc8bea86b16",
+            "scope": 3,
+            "unitText": {
+                "_id": "64a3d6c8233b2fc8bea86b16",
+                "text": "m2"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff634",
+            "no": 554,
+            "name": "การพรวนจานโดยแทรกเตอร์ ขนาด90 แรงม้า (m2)",
+            "detail": "คลอบคลุมการผลิตรถแทรกเตอร์ การผลิตจาน และการนำไปใช้ในการเกษตร; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 0.0039
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database,\nTIIS-MTEC-NSTDA \n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_Dec2019",
+            "type": 15,
+            "unit": "64a3d6c8233b2fc8bea86b16",
+            "scope": 3,
+            "unitText": {
+                "_id": "64a3d6c8233b2fc8bea86b16",
+                "text": "m2"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff635",
+            "no": 555,
+            "name": "การพรวนซี่สริงโดยแทรกเตอร์ขนาด90 แรงม้า (m2)",
+            "detail": "คลอบคลุมการผลิตรถแทรกเตอร์ การผลิตอุปกรณ์ต่อพ่วง และการนำไปใช้ในการเกษตร; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 0.003
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database,\nTIIS-MTEC-NSTDA \n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_Dec2019",
+            "type": 15,
+            "unit": "64a3d6c8233b2fc8bea86b16",
+            "scope": 3,
+            "unitText": {
+                "_id": "64a3d6c8233b2fc8bea86b16",
+                "text": "m2"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff636",
+            "no": 556,
+            "name": "การไถพรวนด้วยเหล็กแหลม โดยแทรกเตอร์ขนาด 90 แรงม้า (m2)",
+            "detail": "คลอบคลุมการผลิตรถแทรกเตอร์ การผลิตจาน และการนำไปใช้ในการเกษตร; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 0.0044
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database,\nTIIS-MTEC-NSTDA \n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_Dec2019",
+            "type": 15,
+            "unit": "64a3d6c8233b2fc8bea86b16",
+            "scope": 3,
+            "unitText": {
+                "_id": "64a3d6c8233b2fc8bea86b16",
+                "text": "m2"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff637",
+            "no": 557,
+            "name": "การไถลูกกลิ้งโดยแทรกเตอร์ขนาด90 แรงม้า (m2)",
+            "detail": "คลอบคลุมการผลิตรถแทรกเตอร์ การผลิตจาน และการนำไปใช้ในการเกษตร; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 0.0015
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database,\nTIIS-MTEC-NSTDA \n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_Dec2019",
+            "type": 15,
+            "unit": "64a3d6c8233b2fc8bea86b16",
+            "scope": 3,
+            "unitText": {
+                "_id": "64a3d6c8233b2fc8bea86b16",
+                "text": "m2"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff638",
+            "no": 558,
+            "name": "การใช้เครื่องปลูกหัวมันสำปะหลั ขนาด 90 แรงม้า (m2)",
+            "detail": "คลอบคลุมการผลิตรถแทรกเตอร์ การผลิตอุปกรณ์ต่อพ่วง และการนำไปใช้ในการเกษตร; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 0.0022
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database,\nTIIS-MTEC-NSTDA \n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_Dec2019",
+            "type": 15,
+            "unit": "64a3d6c8233b2fc8bea86b16",
+            "scope": 3,
+            "unitText": {
+                "_id": "64a3d6c8233b2fc8bea86b16",
+                "text": "m2"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff639",
+            "no": 559,
+            "name": "การใช้เครื่องหว่านปุ๋ยเม็ดขนาด  35 แรงม้า (m2)",
+            "detail": "คลอบคลุมการผลิตรถแทรกเตอร์ การผลิตเครื่องหว่าน และการนำไปใช้ในการเกษตร; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 0.0012
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database,\nTIIS-MTEC-NSTDA \n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_Dec2019",
+            "type": 15,
+            "unit": "64a3d6c8233b2fc8bea86b16",
+            "scope": 3,
+            "unitText": {
+                "_id": "64a3d6c8233b2fc8bea86b16",
+                "text": "m2"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff63a",
+            "no": 560,
+            "name": "การใช้เครื่องใส่ปุ๋ยมูลสัตว์ขนาด 90 แรงม้า (m2)",
+            "detail": "คลอบคลุมการผลิตรถแทรกเตอร์ การผลิตเครื่องหว่าน และการนำไปใช้ในการเกษตร; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 0.0023
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database,\nTIIS-MTEC-NSTDA \n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_Dec2019",
+            "type": 15,
+            "unit": "64a3d6c8233b2fc8bea86b16",
+            "scope": 3,
+            "unitText": {
+                "_id": "64a3d6c8233b2fc8bea86b16",
+                "text": "m2"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff63b",
+            "no": 561,
+            "name": "การใช้เครื่องใส่ปูนขาวขนาด 90 แรงม้า (m2)",
+            "detail": "คลอบคลุมการผลิตรถแทรกเตอร์ การผลิตเครื่องหว่าน และการนำไปใช้ในการเกษตร; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 0.003
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database,\nTIIS-MTEC-NSTDA \n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_Dec2019",
+            "type": 15,
+            "unit": "64a3d6c8233b2fc8bea86b16",
+            "scope": 3,
+            "unitText": {
+                "_id": "64a3d6c8233b2fc8bea86b16",
+                "text": "m2"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff63c",
+            "no": 562,
+            "name": "การใช้เครื่องพรวนระหว่างแถว (การไถย่อยดิน) ขนาด 35 แรงม้า (m2)",
+            "detail": "คลอบคลุมการผลิตรถแทรกเตอร์ การผลิตเครื่องหว่าน และการนำไปใช้ในการเกษตร; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 0.0014
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database,\nTIIS-MTEC-NSTDA \n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_Dec2019",
+            "type": 15,
+            "unit": "64a3d6c8233b2fc8bea86b16",
+            "scope": 3,
+            "unitText": {
+                "_id": "64a3d6c8233b2fc8bea86b16",
+                "text": "m2"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff63d",
+            "no": 563,
+            "name": "การใช้เครื่องเกี่ยวนวดข้าว (m2)",
+            "detail": "มีถังเก็บข้าว 2.5 ตัน และ  เกี่ยวได้ 30 -50 ไร่/วัน; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 0.0067
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database,\nTIIS-MTEC-NSTDA \n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_Dec2019",
+            "type": 15,
+            "unit": "64a3d6c8233b2fc8bea86b16",
+            "scope": 3,
+            "unitText": {
+                "_id": "64a3d6c8233b2fc8bea86b16",
+                "text": "m2"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff63e",
+            "no": 564,
+            "name": "การใช้เครื่องเกี่ยวนวดข้าวโพด (m2)",
+            "detail": "ลูกกะเทาะขนาด 24 นิ้วติดพ่วงท้ายแทรกเตอร์ขนาด 60 – 75 แรงม้า มีอัตราการทำงาน 6 – 8 ตันต่อชั่วโมง; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 0.0076
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database,\nTIIS-MTEC-NSTDA \n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_Dec2019",
+            "type": 15,
+            "unit": "64a3d6c8233b2fc8bea86b16",
+            "scope": 3,
+            "unitText": {
+                "_id": "64a3d6c8233b2fc8bea86b16",
+                "text": "m2"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff63f",
+            "no": 565,
+            "name": "การใช้เครื่องพรวนเพื่อกำจัดวัชพืชขนาด 35 แรงม้า (m2)",
+            "detail": "คลอบคลุมการผลิตรถแทรกเตอร์ การผลิตอุปกรณ์ต่อพ่วง และการนำไปใช้ในการเกษตร; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 0.0013
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database,\nTIIS-MTEC-NSTDA \n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_Dec2019",
+            "type": 15,
+            "unit": "64a3d6c8233b2fc8bea86b16",
+            "scope": 3,
+            "unitText": {
+                "_id": "64a3d6c8233b2fc8bea86b16",
+                "text": "m2"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff640",
+            "no": 566,
+            "name": "การใช้รถไถตอซัง ขนาด 35 แรงม้า (m2)",
+            "detail": "คลอบคลุมการผลิตรถแทรกเตอร์ การผลิตอุปกรณ์ต่อพ่วง และการนำไปใช้ในการเกษตร; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 0.0027
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database,\nTIIS-MTEC-NSTDA \n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_Dec2019",
+            "type": 15,
+            "unit": "64a3d6c8233b2fc8bea86b16",
+            "scope": 3,
+            "unitText": {
+                "_id": "64a3d6c8233b2fc8bea86b16",
+                "text": "m2"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff641",
+            "no": 567,
+            "name": "การใช้เลื่อย ขนาด 2-3 แรงม้า (hp-hr)",
+            "detail": "ใช้เบนซีนเป็นแหล่งพลังงานในช่วงการใช้งาน; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 1.4378
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database,\nTIIS-MTEC-NSTDA \n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_Dec2019",
+            "type": 15,
+            "unit": "64a3d6c8233b2fc8bea86b15",
+            "scope": 3,
+            "unitText": {
+                "_id": "64a3d6c8233b2fc8bea86b15",
+                "text": "hp-hr"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff642",
+            "no": 568,
+            "name": "การใช้เครื่องหว่านเมล็ดขนาด 35 แรงม้า (m2)",
+            "detail": "คลอบคลุมการผลิตรถแทรกเตอร์ การผลิตเครื่องหว่าน และการนำไปใช้ในการเกษตร; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 0.0019
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database,\nTIIS-MTEC-NSTDA \n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_Dec2019",
+            "type": 15,
+            "unit": "64a3d6c8233b2fc8bea86b16",
+            "scope": 3,
+            "unitText": {
+                "_id": "64a3d6c8233b2fc8bea86b16",
+                "text": "m2"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff643",
+            "no": 569,
+            "name": "การใช้เครื่องสูบน้ำสำหรับการเกษตรขนาด 15 แรงม้า (m3)",
+            "detail": "เหมาะสำหรับเครื่องสูบน้ำ (ปั๊มน้ำ) ขนาดความเร็วการสูบน้ำที่ประมาณ 1 ลูกบาศก์เมตรต่อนาที; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 0.051
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database,\nTIIS-MTEC-NSTDA \n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_Dec2019",
+            "type": 15,
+            "unit": "63ff001e667726a8abd2c0e8",
+            "scope": 3,
+            "unitText": {
+                "_id": "63ff001e667726a8abd2c0e8",
+                "text": "m3"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff644",
+            "no": 570,
+            "name": "การใช้เครื่องพ่นยาแบบติดท้ายรถแทรคเตอร์ ขนาด 35 แรงม้า (m2)",
+            "detail": "ต่อพ่วงเข้ากับรถแทรกเตอร์ขนาดกลางหรือขนาดใหญ่แล้ว; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 0.0008
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database,\nTIIS-MTEC-NSTDA \n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_Dec2019",
+            "type": 15,
+            "unit": "64a3d6c8233b2fc8bea86b16",
+            "scope": 3,
+            "unitText": {
+                "_id": "64a3d6c8233b2fc8bea86b16",
+                "text": "m2"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff645",
+            "no": 571,
+            "name": "การใช้เครื่องพ่นยาแบบสูบโยกสะพายหลังขนาด 2-5 แรงม้า (m2)",
+            "detail": "ใช้เบนซีนเป็นแหล่งพลังงานในช่วงการใช้งาน; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 6.1457e-10
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database,\nTIIS-MTEC-NSTDA \n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_Dec2019",
+            "type": 15,
+            "unit": "64a3d6c8233b2fc8bea86b16",
+            "scope": 3,
+            "unitText": {
+                "_id": "64a3d6c8233b2fc8bea86b16",
+                "text": "m2"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        }
+    ]
+}

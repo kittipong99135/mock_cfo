@@ -1,0 +1,214 @@
+{
+    "Value": [
+        {
+            "_id": "65fe93a3c6ec0400ba77e91a",
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": "FossilCH4",
+                    "CH4": "FossilCH4",
+                    "N2O": "N2O"
+                },
+                "CO2": 1,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 1.0000
+            },
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "name": "CO2 จากถังดับเพลิง CO2 สำหรับกิจกรรมซ้อมดับเพลิง (kg)",
+            "detail": "",
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 0,
+            "type": 5,
+            "reference": "",
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2024-03-23T08:32:35.419Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "65fe93a3c6ec0400ba77e919",
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": "FossilCH4",
+                    "CH4": "FossilCH4",
+                    "N2O": "N2O"
+                },
+                "CO2": 0.000044,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 0
+            },
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "name": "De-gas จากการผลิตน้ำ Demin (m3)",
+            "detail": "",
+            "unit": "63ff001e667726a8abd2c0e8",
+            "scope": 0,
+            "type": 5,
+            "reference": "",
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2024-03-23T08:32:35.419Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "unitText": {
+                "_id": "63ff001e667726a8abd2c0e8",
+                "text": "m3"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "65fe948ec6ec0400ba77e923",
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": "FossilCH4",
+                    "CH4": "FossilCH4",
+                    "N2O": "N2O"
+                },
+                "CO2": 1,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 1.0000	
+            },
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "name": "CO2 จากถังดับเพลิง CO2 ประจำจุด (kg)",
+            "detail": "",
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 0,
+            "type": 5,
+            "reference": "",
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2024-03-23T08:36:30.902Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "65fe948ec6ec0400ba77e924",
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": "CH4",
+                    "CH4": "CH4",
+                    "N2O": "N2O"
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 1,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 28.0000
+            },
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "name": "CH4 ระบบบำบัดน้ำเสีย (kgCH4)",
+            "detail": "",
+            "unit": "640055e52a2c0a2da537fbe6",
+            "scope": 0,
+            "type": 5,
+            "reference": "",
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2024-03-23T08:36:30.902Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "unitText": {
+                "_id": "640055e52a2c0a2da537fbe6",
+                "text": "kgCH4"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "65fe948ec6ec0400ba77e925",
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": "CH4",
+                    "CH4": "CH4",
+                    "N2O": "N2O"
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 4.38,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 122.6400	
+            },
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "name": "CH4 ระบบ Septic tank (คน)",
+            "detail": "",
+            "unit": "6600d8f3a9d17e14931c09cd",
+            "scope": 0,
+            "type": 5,
+            "reference": "IPCC 2006 Vol 5 CH6 (BOD5 = 40 g/person/day, 365 day )",
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2024-03-23T08:36:30.902Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "unitText": {
+                "_id": "6600d8f3a9d17e14931c09cd",
+                "text": "คน"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        }
+    ]
+}

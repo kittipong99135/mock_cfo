@@ -1,0 +1,444 @@
+{
+    "Value": [
+        {
+            "_id": "64d0a3529c32d229e4cff61d",
+            "no": 531,
+            "name": "น้ำนมดิบจากโค (kg)",
+            "detail": "น้ำนมที่รีดได้จากโคนมโดยไม่ผ่านกระบวนการใดๆ ก่อนส่งไปศูนย์รวบรวมน้ำนม; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 1.6298
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database,\nTIIS-MTEC-NSTDA \n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_Mar2021",
+            "type": 14,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff61e",
+            "no": 532,
+            "name": "น้ำนมดิบจากศูนย์รวบรวมน้ำนม (kg)",
+            "detail": "น้ำนมที่รีดได้จากโคนมที่ผ่านการเก็บรวบรวม ตรวจสอบคุณภาพ และรักษาคุณภาพน้ำนม จากศูนย์รวบรวมน้ำนม เพื่อนำเข้ากระบวนการแปรรูปต่อไป; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 2.5233
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database,\nTIIS-MTEC-NSTDA \n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_Mar2021",
+            "type": 14,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff61f",
+            "no": 533,
+            "name": "น้ำผึ้งกรอง (kg)",
+            "detail": "จากการเลี้ยงผึ้งแบบรังชั้นเดียวเชิงพาณิชย์; ครอบคลุมตั้งแต่การเตรียมและสร้างรังผึ้ง การจัดการและการเลี้ยงผึ้ง การขนส่งผึ้งไปยังแหล่งน้ำหวานและเกสรดอกไม้ การสลัดน้ำผึ้ง การกรองน้ำผึ้ง ตลอดจนการเก็บเกี่ยวผลผลิตอื่น; ข้อมูลจากการเลี้ยงผึ้งในเขตภาคเหนือของประเทศไทย; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 1.4546
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database,\nTIIS-MTEC-NSTDA \n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_Mar2021",
+            "type": 14,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff620",
+            "no": 534,
+            "name": "นมผึ้ง (Royal jelly) (kg)",
+            "detail": "จากการเลี้ยงผึ้งแบบรังชั้นเดียวเชิงพาณิชย์; ครอบคลุมตั้งแต่การเตรียมและสร้างรังผึ้ง การจัดการและการเลี้ยงผึ้ง การขนส่งผึ้งไปยังแหล่งน้ำหวานและเกสรดอกไม้ การสลัดน้ำผึ้ง การกรองน้ำผึ้ง ตลอดจนการเก็บเกี่ยวผลผลิตอื่น; ข้อมูลจากการเลี้ยงผึ้งในเขตภาคเหนือของประเทศไทย; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 1.4564
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database,\nTIIS-MTEC-NSTDA \n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_Mar2021",
+            "type": 14,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff621",
+            "no": 535,
+            "name": "ไขผึ้ง (kg)",
+            "detail": "จากการเลี้ยงผึ้งแบบรังชั้นเดียวเชิงพาณิชย์; ครอบคลุมตั้งแต่การเตรียมและสร้างรังผึ้ง การจัดการและการเลี้ยงผึ้ง การขนส่งผึ้งไปยังแหล่งน้ำหวานและเกสรดอกไม้ การสลัดน้ำผึ้ง การกรองน้ำผึ้ง ตลอดจนการเก็บเกี่ยวผลผลิตอื่น; ข้อมูลจากการเลี้ยงผึ้งในเขตภาคเหนือของประเทศไทย; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 1.4564
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database,\nTIIS-MTEC-NSTDA \n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_Mar2021",
+            "type": 14,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff622",
+            "no": 536,
+            "name": "เกสรผึ้ง (kg)",
+            "detail": "จากการเลี้ยงผึ้งแบบรังชั้นเดียวเชิงพาณิชย์; ครอบคลุมตั้งแต่การเตรียมและสร้างรังผึ้ง การจัดการและการเลี้ยงผึ้ง การขนส่งผึ้งไปยังแหล่งน้ำหวานและเกสรดอกไม้ การสลัดน้ำผึ้ง การกรองน้ำผึ้ง ตลอดจนการเก็บเกี่ยวผลผลิตอื่น; ข้อมูลจากการเลี้ยงผึ้งในเขตภาคเหนือของประเทศไทย; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 1.451
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database,\nTIIS-MTEC-NSTDA \n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_Mar2021",
+            "type": 14,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff623",
+            "no": 537,
+            "name": "หนังโคสด (kg)",
+            "detail": "การแปรสภาพโคเนื้อมีชีวิต ให้เป็นเนื้อโคชำแหละเพื่อการบริโภค โดยผ่านกระบวนการฆ่าและชำแหละจากโรงงานฆ่าและชำแหละโคที่ได้มาตรฐาน; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 13.4269
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database,\nTIIS-MTEC-NSTDA \n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_Mar2021",
+            "type": 14,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff624",
+            "no": 538,
+            "name": "น้ำมันงาสกัดเย็นแบบครัวเรือน (kg)",
+            "detail": "ข้อมูลการผลิตน้ำมันงาสกัดเย็นแบบครัวเรือนในเขตภาคเหนือของประเทศไทย; ครอบคลุมตั้งแต่การเตรียมวัตถุดิบ การบดและการกรอง; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 1.2495
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database,\nTIIS-MTEC-NSTDA \n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_Dec2019",
+            "type": 14,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff625",
+            "no": 539,
+            "name": "เกลือทะเล (kg)",
+            "detail": "ข้อมูลการผลิตเกลือจากเขตภาคกลางของประเทศไทย; ครอบคลุมตั้งแต่การเตรียมนาปลง (นาวาง) การสูบน้ำทะเล การตกผลึกเกลือ และการเก็บเกี่ยว; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 0.0056
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database,\nTIIS-MTEC-NSTDA \n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_Dec2019",
+            "type": 14,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        },
+        {
+            "_id": "64d0a3529c32d229e4cff626",
+            "no": 540,
+            "name": "เกลือสินเธาว์แบบตากลานดิน (kg)",
+            "detail": "ข้อมูลการผลิตเกลือแบบตากลานดิน ในเขตภาคตะวันออกเฉียงเหนือของประเทศไทย; ครอบคลุมตั้งแต่การเตรียมพื้นที่นา การสูบน้ำเกลือ การตกผลึกเกลือ และการเก็บเกี่ยว; LCIA method IPCC 2013 GWP 100a V1.03",
+            "gwp100": {
+                "CO2": null,
+                "CH4": null,
+                "FossilCH4": null,
+                "N2O": null,
+                "SF6": null,
+                "NF3": null
+            },
+            "ghgReport": {
+                "formula": {
+                    "GHGCH4": null,
+                    "CH4": null,
+                    "N2O": null
+                },
+                "CO2": 0,
+                "FossilCH4": 0,
+                "CH4": 0,
+                "N2O": 0,
+                "SF6": 0,
+                "NF3": 0,
+                "total": 0.0051
+            },
+            "histories": [],
+            "deletedAt": null,
+            "activities_log": [],
+            "createdAt": "2023-07-04T08:42:32.807Z",
+            "updatedAt": "2024-03-25T07:32:01.043Z",
+            "reference": "Thai National LCI Database,\nTIIS-MTEC-NSTDA \n(with TGO electricity 2016-2018)",
+            "updatedDate": "Update_Dec2019",
+            "type": 14,
+            "unit": "63eefe644c6c12d11bac0534",
+            "scope": 3,
+            "unitText": {
+                "_id": "63eefe644c6c12d11bac0534",
+                "text": "kg"
+            },
+            "deleteDate": "",
+            "isDelete": false
+        }
+    ]
+}

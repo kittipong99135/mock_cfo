@@ -1,0 +1,43 @@
+{
+    "Value": [
+            {
+                "_id": "63ff0b9535953c0ad26b6f5e",
+                "ghgReport": {
+                    "formula": {
+                        "CH4": "FossilCH4",
+                        "N2O": "N2O"
+                    },
+                    "CO2": 0,
+                    "CH4": 0,
+                    "FossilCH4": 0,
+                    "N2O": 0,
+                    "SF6": 0,
+                    "NF3": 0,
+                    "total": 0.4999
+                },
+                "gwp100": {
+                    "CO2": null,
+                    "CH4": null,
+                    "FossilCH4": null,
+                    "N2O": null,
+                    "SF6": null,
+                    "NF3": null
+                },
+                "name": "ไฟฟ้าแบบ grid mix ปี 2016-2018; LCIA method IPCC 2013 GWP 100a V1.03 (kWh)",
+                "type": 3,
+                "reference": "Thai National LCI Database, TIISMTEC-NSTDA, AR5 (with TGO electricity 2016-2018)",
+                "histories": [],
+                "unit": "63ff0850667726a8abd2c0e9",
+                "activities_log": [],
+                "createdAt": "2023-03-01T08:23:49.621Z",
+                "updatedAt": "2024-03-25T07:32:01.043Z",
+                "deletedAt": null,
+                "unitText": {
+                    "_id": "63ff0850667726a8abd2c0e9",
+                    "text": "kWh"
+                },
+                "deleteDate": "",
+                "isDelete": false
+            }
+        ]
+}

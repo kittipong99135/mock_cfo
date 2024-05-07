@@ -1,0 +1,172 @@
+{
+    "Value" :[
+        {
+            "_id": 1,
+            "scope": 3,
+            "emissionFactorType": 1,
+            "emissionFactorTypeName": "กลุ่มปิโตรเคมี"
+        },
+        {
+            "_id": 2,
+            "scope": 3,
+            "emissionFactorType": 2,
+            "emissionFactorTypeName": "กลุ่มผลิตภัณฑ์จากก๊าซธรรมชาติ"
+        },
+        {
+            "_id": 3,
+            "scope": 3,
+            "emissionFactorType": 3,
+            "emissionFactorTypeName": "กลุ่มพลังงาน: เชื้อเพลิงเหลว และเชื้อเพลิงแข็ง"
+        },
+        {
+            "_id": 4,
+            "scope": 3,
+            "emissionFactorType": 4,
+            "emissionFactorTypeName": "กลุ่มไฟฟ้า"
+        },
+        {
+            "_id": 5,
+            "scope": 3,
+            "emissionFactorType": 5,
+            "emissionFactorTypeName": "กลุ่มน้ำประปาและน้ำอุตสาหกรรม"
+        },
+        {
+            "_id": 6,
+            "scope": 3,
+            "emissionFactorType": 6,
+            "emissionFactorTypeName": "กลุ่มการขนส่งโดยรถบรรทุกและขนส่งประเภทอื่น"
+        },
+        {
+            "_id": 7,
+            "scope": 3,
+            "emissionFactorType": 7,
+            "emissionFactorTypeName": "สิ่งทอ"
+        },
+        {
+            "_id": 8,
+            "scope": 3,
+            "emissionFactorType": 8,
+            "emissionFactorTypeName": "กลุ่มอุตสาหกรรมยางธรรมชาติ"
+        },
+        {
+            "_id": 9,
+            "scope": 3,
+            "emissionFactorType": 9,
+            "emissionFactorTypeName": "กลุ่มอุตสาหกรรมโรงเลื่อยและโรงอบไม้ยางพารา"
+        },
+        {
+            "_id": 10,
+            "scope": 3,
+            "emissionFactorType": 10,
+            "emissionFactorTypeName": "ปาล์มน้ำมัน"
+        },
+        {
+            "_id": 11,
+            "scope": 3,
+            "emissionFactorType": 11,
+            "emissionFactorTypeName": "กลุ่มอาหารสัตว์"
+        },
+        {
+            "_id": 12,
+            "scope": 3,
+            "emissionFactorType": 12,
+            "emissionFactorTypeName": "กลุ่มผลิตภัณฑ์ทางการเกษตรและอาหาร"
+        },
+        {
+            "_id": 13,
+            "scope": 3,
+            "emissionFactorType": 13,
+            "emissionFactorTypeName": "กลุ่มปศุสัตว์"
+        },
+        {
+            "_id": 14,
+            "scope": 3,
+            "emissionFactorType": 14,
+            "emissionFactorTypeName": "กลุ่มผลิตภัณฑ์ที่ได้จากสัตว์และกลุ่มผลิตภัณฑ์ทางการเกษตร"
+        },
+        {
+            "_id": 15,
+            "scope": 3,
+            "emissionFactorType": 15,
+            "emissionFactorTypeName": "กลุ่มเครื่องจักรกลทางการเกษตร"
+        },
+        {
+            "_id": 16,
+            "scope": 3,
+            "emissionFactorType": 16,
+            "emissionFactorTypeName": "กลุ่มการจัดการมูลฝอยชุมชน และการปรับปรุงน้ำเสียชุมชน"
+        },
+        {
+            "_id": 17,
+            "scope": 3,
+            "emissionFactorType": 17,
+            "emissionFactorTypeName": "กลุ่มเยื่อและกระดาษ"
+        },
+        {
+            "_id": 18,
+            "scope": 3,
+            "emissionFactorType": 18,
+            "emissionFactorTypeName": "กลุ่มเคมีภัณฑ์"
+        },
+        {
+            "_id": 19,
+            "scope": 3,
+            "emissionFactorType": 19,
+            "emissionFactorTypeName": "กลุ่มโลหะเหล็ก"
+        },
+        {
+            "_id": 20,
+            "scope": 3,
+            "emissionFactorType": 20,
+            "emissionFactorTypeName": "กลุ่มโลหะที่มิใช่เหล็ก"
+        },
+        {
+            "_id": 21,
+            "scope": 3,
+            "emissionFactorType": 21,
+            "emissionFactorTypeName": "กลุ่มกระบวนการ"
+        },
+        {
+            "_id": 22,
+            "scope": 3,
+            "emissionFactorType": 22,
+            "emissionFactorTypeName": "กลุ่มวัสดุก่อสร้าง"
+        },
+        {
+            "_id": 23,
+            "scope": 3,
+            "emissionFactorType": 31,
+            "emissionFactorTypeName": "กลุ่มปุ๋ย"
+        },
+        {
+            "_id": 24,
+            "scope": 3,
+            "emissionFactorType": 32,
+            "emissionFactorTypeName": "กลุ่มการฝังกลบขยะ"
+        },
+        {
+            "_id": 25,
+            "scope": 3,
+            "emissionFactorType": 33,
+            "emissionFactorTypeName": "กลุ่มแก้วและกระจก"
+        },
+        {
+            "_id": 26,
+            "scope": 3,
+            "emissionFactorType": 34,
+            "emissionFactorTypeName": "กลุ่มไหมหัตถกรรม"
+        },
+        {
+            "_id": 27,
+            "scope": 3,
+            "emissionFactorType": 35,
+            "emissionFactorTypeName": "อื่นๆ เพิ่มเติม"
+        },
+        {
+            "_id": 28,
+            "scope": 3,
+            "emissionFactorType": 36,
+            "emissionFactorTypeName": "Custom Scope3"
+        }
+    ]
+}
